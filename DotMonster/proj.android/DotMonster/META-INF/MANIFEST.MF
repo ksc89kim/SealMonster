@@ -1,0 +1,3810 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/shapeF/f1-3-2.png
+SHA1-Digest: H1CUki2Qy0EOXL7pRzPSMjgmVZQ=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: nKaHZR/SZMMQaMr3tIMJk0K1+k0=
+
+Name: assets/map/map_8_12.plist
+SHA1-Digest: /ZnORpfNzgG4Eux5cmyu+nVKfgk=
+
+Name: assets/skillT/LS6-4-4.png
+SHA1-Digest: kTsv/2EawHwQ7Iu0Gdk7cO5f5PY=
+
+Name: assets/shapeF/f2-3-8.png
+SHA1-Digest: 9vnfqgXIKwas8FnSmUmh1Mjz5Fw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 9aVwwDJLurzAdd/0dY0hcfBsZLI=
+
+Name: assets/shapeW/w3-3-5.png
+SHA1-Digest: m5G42U9GrNL7sDliMeqeJqLcI4Q=
+
+Name: assets/skillT/LS1-4-5.png
+SHA1-Digest: pTtB1MPWKUGx751sQabyaaeZJUw=
+
+Name: assets/skillF/FS7-1-1.png
+SHA1-Digest: ZsJ+45IiJtQw4IqWPosMhBz444Q=
+
+Name: assets/skillW/WS5-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/skillW/WS7-3-1.png
+SHA1-Digest: aJTwECbsA1JuE5Tr6tfxTEL/pV0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 2zGuWTNe/mXuDfUEMVNWpRpYsB4=
+
+Name: assets/skillF/FS7-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillW/WS1-2-1.png
+SHA1-Digest: pL1YKWf2r1mat/UurKhm7nHS6No=
+
+Name: assets/skillF/FS1-2-2.png
+SHA1-Digest: wLg84DGshK3zbhERQDt5siOga9w=
+
+Name: assets/shapeT/l1-1-2.png
+SHA1-Digest: huHdbebeNPJjr4pPMwiuoaRtKlk=
+
+Name: assets/skillF/FS5-3-3.png
+SHA1-Digest: rRSWBfBmN8gD89n0QYzRS5CyDhM=
+
+Name: assets/save.png
+SHA1-Digest: Q8p7/77RgDOhiWak3bF2YDj1Krk=
+
+Name: assets/skillF/FS1-2-5.png
+SHA1-Digest: Wsz1hfXIu2+XC2dw/PVgfW/9qgE=
+
+Name: assets/skillW/WS9-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillW/WS10-2-2.png
+SHA1-Digest: 00RlxnO8syJmQuC9Rb4lucbgtqo=
+
+Name: assets/shapeT/l1-3-8.png
+SHA1-Digest: H2RX8wnLaG2aJ5KLv2uPUces8U8=
+
+Name: assets/shapeW/w1-2-9.png
+SHA1-Digest: cPIAy8Fu/95V2Z6hpwDsZ2UoRqU=
+
+Name: assets/shapeW/w2-2-4.png
+SHA1-Digest: J8pthtTZfUA+qCH8UClf13Cmsjc=
+
+Name: assets/top.png
+SHA1-Digest: /wrMqYnb3K7aPuDllYoQ56DD7Vw=
+
+Name: assets/shapeF/f2-2-10.png
+SHA1-Digest: 2lPJDN/9YIZJN1QHAyTqUJ9h5zU=
+
+Name: assets/skillT/LS2-2-1.png
+SHA1-Digest: TjHhEg4suHJQpUr+SAQN5H0uo0E=
+
+Name: assets/skillT/LS4-4-5.png
+SHA1-Digest: XTNk/TzYHEb0aVPEXHtu7R2LRkY=
+
+Name: assets/shapeF/f1-1-3.png
+SHA1-Digest: oPBOj8UVUhiLe4IpqaU3Ivvm4VY=
+
+Name: assets/sound/find.wav
+SHA1-Digest: e5qg1PsmsoVHwU9j5Tp1GdW/EKM=
+
+Name: assets/skillF/FS5-2-3.png
+SHA1-Digest: ksuKx9elPp+R7PyRPIjRxJTmadQ=
+
+Name: assets/skillW/WS6-2-1.png
+SHA1-Digest: dxntTwYz6hTa7L6I/ocA9xvs04Q=
+
+Name: assets/skillF/FS1-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/skillT/LS5-4-4.png
+SHA1-Digest: HPg6wLIHL6QlHQlV4uA39qLOzNs=
+
+Name: assets/skillT/LS3-2-1.png
+SHA1-Digest: QrzxPAgqYu9kW3yk83g3e89Xofs=
+
+Name: assets/villageMap.png
+SHA1-Digest: OqQ4U5EYHY5FqTaYqjs1iBXNzE0=
+
+Name: assets/skillF/FS6-3-1.png
+SHA1-Digest: iUyNITiS5eMfOFPC8qbScKIqncY=
+
+Name: assets/skillF/FS6-2-4.png
+SHA1-Digest: HXkbLBfu2rnT4BMxsOZdHoB8HD8=
+
+Name: assets/skillT/LS9-2-5.png
+SHA1-Digest: 0iAQaLa/A6vMIVfkO2zLExJ6LSs=
+
+Name: assets/skillW/WS7-4-5.png
+SHA1-Digest: 9Y7lIxDncKrKsxbrw7uI7rgKhm8=
+
+Name: assets/skillW/WS9-2-1.png
+SHA1-Digest: VmDCFdWrD5gehokICKfzd/cL624=
+
+Name: assets/skillW/WS2-2-1.png
+SHA1-Digest: c9QTuLxsCt2N+0a4e02rT1Gnhbc=
+
+Name: assets/skillT/LS6-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/shapeT/l1-2-7.png
+SHA1-Digest: /pZ+BodNnqG+uzVlq/JfHIzKQek=
+
+Name: assets/map/map_1_3.plist
+SHA1-Digest: ComEIMcCQ2eikIPW4hmHqGMH55U=
+
+Name: assets/shapeF/f3-3-1.png
+SHA1-Digest: D0x7nK4ZI6HqEmCRPP+hIKdHfNI=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: y5NEiGadCzArYseq09UiAUCI9Ys=
+
+Name: assets/map/map_9_10.plist
+SHA1-Digest: LaNd/w5gL2RLCWDNUxSD6jW+awI=
+
+Name: assets/mapImages/popup.png
+SHA1-Digest: nUIhyBihagFEx+V4qBOAJUeOv9U=
+
+Name: assets/shapeW/w1-2-7.png
+SHA1-Digest: wiciui/27X9YkCP5jTHL+36HQY4=
+
+Name: assets/map/map_3_8.plist
+SHA1-Digest: r6q5HZwSr5sEEGzXHz4JTnQa5sM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: NNwe3FKHs47gjoFv3kwcJmKiUOw=
+
+Name: assets/skillW/WS1-3-4.png
+SHA1-Digest: jDXyq8GfE3FwV7spn89f1cy/kZw=
+
+Name: assets/skillW/WS3-4-5.png
+SHA1-Digest: 8dtmiQ0OaOP3rHNsYoQG8YF1ss8=
+
+Name: assets/skillW/WS4-4-1.png
+SHA1-Digest: fOD87Tn9FzluIji2iad5WgJlz4E=
+
+Name: assets/skillW/WS2-4-5.png
+SHA1-Digest: kbAH8pP8gF3pRy002G1smceL37M=
+
+Name: assets/skillW/WS4-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillF/FS8-2-1.png
+SHA1-Digest: zFycO2cSJpOjavNJc9bMPt5r9Qc=
+
+Name: assets/skillF/FS6-4-4.png
+SHA1-Digest: q6a3b1M4Tb5fxXWd7cBzAOKHEbQ=
+
+Name: assets/shapeT/l1-3-1.png
+SHA1-Digest: n228dDtUnZlzSlr3t43AuRe3/Hs=
+
+Name: assets/skillT/LS10-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/shapeT/l1-3-10.png
+SHA1-Digest: eHGau3jI0U8UH3qtNlpPFFXgd8U=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: oHKnBBbWgjP4o7A/6GgdHOh1E3M=
+
+Name: assets/skillF/FS3-3-3.png
+SHA1-Digest: TBbVdFbZVKWEV4W9/nfLgFUGIT0=
+
+Name: assets/skillW/WS6-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillT/LS2-4-4.png
+SHA1-Digest: X1Anysslb0tFA3A4+x2/uryoqeE=
+
+Name: assets/skillW/WS1-4-1.png
+SHA1-Digest: Nv4gq6uf7IHKIcoezMagXy4INxw=
+
+Name: assets/skillT/LS4-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/shapeW/w1-1-6.png
+SHA1-Digest: 122Kp7f/8JIuiR07bXqeRELM6Gk=
+
+Name: assets/shapeW/w3-2-8.png
+SHA1-Digest: m6UUAAedImg8yOLqZDfHSlc1gEE=
+
+Name: assets/shapeT/l1-2-9.png
+SHA1-Digest: fFZv2N7xeXMmx4edgFyYFy4jyT0=
+
+Name: assets/shapeW/w1-1-10.png
+SHA1-Digest: h/AP9Bkk6vFhTYt9+WB9GM4NRgA=
+
+Name: assets/skillF/FS2-3-5.png
+SHA1-Digest: zltFS7B9b4rq4CV2vSZRONkFiMQ=
+
+Name: assets/skillW/WS2-3-1.png
+SHA1-Digest: uR4Y23SYJfEZQlet/i4EMLmfR88=
+
+Name: assets/shapeT/l3-3-9.png
+SHA1-Digest: xIjYM48EBRU8ixyF8fPJBS8N3VA=
+
+Name: assets/skillW/WS9-4-3.png
+SHA1-Digest: 5XJNd5fGQP9+f4gGCwdLkJ9PgbY=
+
+Name: com/tapjoy/res/countdown_image.png
+SHA1-Digest: lMIloUGzrB+5DRkSZ7iqji0ud3o=
+
+Name: assets/skillT/LS7-4-2.png
+SHA1-Digest: KqFj/fbkg0WlyqVxA0N+T6oQs2k=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/skillF/FS4-3-4.png
+SHA1-Digest: NSW79IoIhpQafRVf4LOjGLJJ8jQ=
+
+Name: assets/skillF/FS6-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/shapeT/l3-2-2.png
+SHA1-Digest: W1apD5V6vprg/eBYtd4suT3MEaA=
+
+Name: assets/skillT/LS1-3-3.png
+SHA1-Digest: Mr+/Mp+mLSyvBIe9duoP1ODNBh0=
+
+Name: assets/shapeT/l2-3-4.png
+SHA1-Digest: QJpLmhwKdpsmrvsSoG1V7zsVH+Q=
+
+Name: assets/skillW/WS2-4-1.png
+SHA1-Digest: +5r2ldaKkIU8ET1C90Kz8E3LlqY=
+
+Name: assets/skillT/LS9-4-1.png
+SHA1-Digest: BU7PhI8N+XF8H++opOOEC3AQQ+w=
+
+Name: assets/shapeT/l3-1-1.png
+SHA1-Digest: 8tfFtgkzo1OjWoP4bl4gvw++ih8=
+
+Name: assets/map/map_5_1.plist
+SHA1-Digest: Q1uBKjvQDNsTUD9FGcq2EUe2E+A=
+
+Name: assets/skillF/FS10-3-3.png
+SHA1-Digest: gZtwjKkSSbs1V7dNiBTkIlyl7oQ=
+
+Name: assets/map/map_5_6.plist
+SHA1-Digest: hflmprdbSJIVzh0nd8udTV2yyQ4=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: nnQrYOSge8+DJ/aZ1dVTUztprv8=
+
+Name: assets/borderClick.png
+SHA1-Digest: YJ+Tr7PyJx6ziFkRyoqEOG+Uh8M=
+
+Name: assets/shapeT/l3-2-9.png
+SHA1-Digest: qx5IqQL8MxyOd/s+WiK2pSEyctI=
+
+Name: assets/skillW/WS4-4-5.png
+SHA1-Digest: mRXLuD1pj8Ni19zZS1iX7xufsZw=
+
+Name: assets/shapeT/l1-1-10.png
+SHA1-Digest: emRCga7e9HC2N0obOPBC8grU4Dc=
+
+Name: assets/skillW/WS8-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_dark
+ .9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/skillT/LS1-1-2.png
+SHA1-Digest: Pr7DU8xCp7f7rvXqU/cB+8wUmMA=
+
+Name: assets/skillW/WS1-4-5.png
+SHA1-Digest: ZR0/PHE5VXgp+KSy7WUwQOt6vBY=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: f8NYPVOXcYBwuQSENH+eJEOJeV4=
+
+Name: assets/shapeF/f3-1-7.png
+SHA1-Digest: kSU/JXsyPj+bQs6DLxuuADmLYRY=
+
+Name: assets/skillT/LS9-4-4.png
+SHA1-Digest: 7k55PZ+Jpwqu6clZmKgNG9rkCso=
+
+Name: assets/skillF/FS7-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/map/map_5_7.plist
+SHA1-Digest: QvO5lGT/OdjTp4st+5qnokg7Bkw=
+
+Name: assets/map/map_4_8.plist
+SHA1-Digest: 7gbW+Tq7YFJ5rHutCXCDHPBwO1M=
+
+Name: assets/map/map_9_3.plist
+SHA1-Digest: PC+KFMFYnq9rlmvlHciBhg6PC08=
+
+Name: assets/skillW/WS6-4-4.png
+SHA1-Digest: Uaa60YJHoRmG8f1FnjqAdrmc44I=
+
+Name: assets/map/map_6_14.plist
+SHA1-Digest: +mSYApFNyrZuqtKaRy404yuMQYc=
+
+Name: assets/skillF/FS5-3-2.png
+SHA1-Digest: 5PxUdJIr8W73Lv4TFq4TiRo3SB8=
+
+Name: assets/map/map_8_18.plist
+SHA1-Digest: kHT82HfFuI+qlvvkj/rVOAlfYys=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: t7HBv64duoewWbdod8qJTlTBDMw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 1BuFFGqXKd2oLlGoMWaCcT0oFug=
+
+Name: assets/shapeW/w2-1-8.png
+SHA1-Digest: A1fzVo8kGQC2DxzR1RU4bJVxh68=
+
+Name: assets/shapeW/w3-1-3.png
+SHA1-Digest: tmWIAPrIYNSMwHAHWuT5TgrFtXM=
+
+Name: assets/skillF/FS1-3-4.png
+SHA1-Digest: XLBUfsuEwCo5siDbldfqHFZucsw=
+
+Name: assets/map/map_2_3.plist
+SHA1-Digest: j7MyIQ6H6JGsnPuaLKvpg3Y/Wls=
+
+Name: assets/shapeW/w2-1-9.png
+SHA1-Digest: bubCnbw2jRVFom6jUENn77R/00I=
+
+Name: assets/map/map_4_5.plist
+SHA1-Digest: oL04b4Km7oSqss3KaBdjVe0gxfE=
+
+Name: assets/skillF/FS9-3-4.png
+SHA1-Digest: ePPYlIWLxCFKhtW9CtlJmSbH2C8=
+
+Name: assets/skillF/FS10-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS7-2-4.png
+SHA1-Digest: 1l7IZ0KRGhP0vnpznBx99PaSVoA=
+
+Name: assets/monsterList.png
+SHA1-Digest: UjXXTO5FvLzL8PQsE7yKd7HW6w8=
+
+Name: assets/map/map_9_4.plist
+SHA1-Digest: p+Iwkyy1Br5G6s9B5nhfmO0XnoI=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: PqTpPBDW7Mw+tiTo97Mdprm+VVU=
+
+Name: assets/map/map_5_12.plist
+SHA1-Digest: XuFVdXHi8VtrOCDXez209//hBGE=
+
+Name: assets/map/map_5_3.plist
+SHA1-Digest: 8c0+5ImxXZLq91ZcsVP/j6uRjBY=
+
+Name: assets/shapeW/w2-2-2.png
+SHA1-Digest: mkej7whpobHVRnfFDZblbQbVSv8=
+
+Name: assets/skillT/LS9-1-4.png
+SHA1-Digest: tbZfDIonkwZlDl2k/oOmsDROmuw=
+
+Name: assets/shapeT/l2-2-2.png
+SHA1-Digest: 3pAxt2l94jPXj0yI9N5ABwtgIiU=
+
+Name: assets/skillF/FS3-4-5.png
+SHA1-Digest: nt8UPPYmonBP2i/1Bgi8LhJrU60=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_dark.9.pn
+ g
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/talk/character4.png
+SHA1-Digest: tnXZKC15q0F+FFlfdm7ec5VYRTM=
+
+Name: assets/shapeW/w2-3-2.png
+SHA1-Digest: TQ6HZrKW1tWsVsUx9H2IasqQgAA=
+
+Name: assets/shapeF/f3-3-10.png
+SHA1-Digest: c7vhy8/N64beTw2P+2D95HuBlOw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: +W21ZNQRN0oDMKb9p9oNUq/o5as=
+
+Name: assets/map/map_9_11.plist
+SHA1-Digest: uusIc/8NebfR8kxIE38vYd8bVa0=
+
+Name: assets/sound/sunny-walking.wav
+SHA1-Digest: /SuXhhaQeXMLuR3NCvm8G6xO9w4=
+
+Name: assets/map/map_5_14.plist
+SHA1-Digest: pIgAIeDCMcoUrwY2YqAeUVISWH8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: PQepBgnG9/NfWmEsB0xZninuUKM=
+
+Name: assets/skillW/WS2-4-4.png
+SHA1-Digest: kSnu6ruMnzMnRfQUpo5QpNoziaw=
+
+Name: assets/skillT/LS6-4-5.png
+SHA1-Digest: OPk8Wde2mdpdtmGbagnqQFR/0ds=
+
+Name: assets/map/map_3_16.plist
+SHA1-Digest: MnXxUPcnLtM2jWDjAkikCaF6ppU=
+
+Name: assets/shapeT/l1-1-4.png
+SHA1-Digest: 4OVSLbMli9nxt3kkoTvZDMZ8BWc=
+
+Name: assets/skillW/WS10-4-3.png
+SHA1-Digest: Gbw9KspcvQxf9T3HsFHKLAca9OA=
+
+Name: assets/skillW/WS10-2-3.png
+SHA1-Digest: 7v8I1wj0Do0MFnrNZd5c9PdxHKw=
+
+Name: assets/skillT/LS7-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: Cv+J7vU8p5tdCif6GMDKlPPRC6M=
+
+Name: assets/shapeW/w2-2-7.png
+SHA1-Digest: /Mj6Nn9DZEMhJXRpvyRgjHKBk9o=
+
+Name: assets/skillF/FS10-4-3.png
+SHA1-Digest: 1uDiRSG6uubboMQdXV3KkM130fQ=
+
+Name: res/drawable-hdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: mKmFlpzPqO2eN1UQWWTrY/HvgmA=
+
+Name: assets/skillT/LS7-4-5.png
+SHA1-Digest: tkI3NsLBqLZQvPLHUhMSJ6WQBhY=
+
+Name: assets/mapImages/play.png
+SHA1-Digest: q2tOAHFgldMM0wW/vq5pBRsPOkw=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: hqxe2Ap9MZsAqBPDoV+yim7NXFM=
+
+Name: assets/skillT/LS4-3-4.png
+SHA1-Digest: fLofGMhjBi/wQqS7EbG+DFKiYss=
+
+Name: assets/skill1.png
+SHA1-Digest: n8ahZDf3+hEaEkzSDGCGTiJmdhw=
+
+Name: assets/skillW/WS3-3-3.png
+SHA1-Digest: KmHXXooLVQmRK7402hX2wqF9CsM=
+
+Name: assets/skillT/LS5-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS1-4-4.png
+SHA1-Digest: qvKGmRTye+X0QRTCCr9xTvxndTk=
+
+Name: assets/skillT/LS10-2-4.png
+SHA1-Digest: Ve4wPYlq1sGryO8Af+8L4AaSIX0=
+
+Name: assets/shapeT/l2-1-10.png
+SHA1-Digest: 2E8CwndfRvlKC0uyHT9B1TMm9Qo=
+
+Name: assets/map/map_8_22.plist
+SHA1-Digest: vs0dM5kEY5u2qgF8DM3BaZ+9zls=
+
+Name: assets/talk/gaon.png
+SHA1-Digest: KlMSrTnPx0prQrpEFT0s1MSi8LY=
+
+Name: assets/map/map_6_10.plist
+SHA1-Digest: 1S5DSRoa0PgT6GmcFzyjtXFH0mE=
+
+Name: assets/skillT/LS2-3-2.png
+SHA1-Digest: euGeNQ+scnamRSsiC9xOcH56C1Q=
+
+Name: assets/map/map_8_10.plist
+SHA1-Digest: ks2BdcDg7AZ8HbGMJf0yfJFHges=
+
+Name: assets/shapeT/l3-2-3.png
+SHA1-Digest: vOBz8RDE1HH+V8hxlY1dURsXv2w=
+
+Name: assets/skillF/FS3-4-1.png
+SHA1-Digest: co0M37a/qYLVIyCImki//0fvJY0=
+
+Name: assets/skillF/FS6-3-5.png
+SHA1-Digest: s6Mw1+kYFkO7GZY9MIhXsXYewM4=
+
+Name: assets/skillT/LS6-2-4.png
+SHA1-Digest: lmw2j69Iw54l8zOLPXI55O5BqCM=
+
+Name: assets/skillT/LS4-4-2.png
+SHA1-Digest: JvMS9V0EVajuBIBW/DBopAyRh9Q=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_light.9.pn
+ g
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/skillW/WS7-3-2.png
+SHA1-Digest: ZbGB/oAWziT6D12N9mgv86oPGdQ=
+
+Name: assets/skillExit.png
+SHA1-Digest: 3DGfIk8UGUtow2+idZaxJUbhqs4=
+
+Name: assets/skillF/FS8-4-2.png
+SHA1-Digest: tnTNmJiRZe6HgBL6MfDCkLxOFJ0=
+
+Name: assets/skillT/LS4-4-4.png
+SHA1-Digest: igALIKobDPTxGRZk1diZ+Bk+jWM=
+
+Name: assets/field/field02.png
+SHA1-Digest: eQOzbrQ7GLW4TpQvtsxUCJDq18g=
+
+Name: assets/skillT/LS7-2-3.png
+SHA1-Digest: iAfLE/G9IJUWeBtOt9HCUKa91E0=
+
+Name: assets/map/map_4_9.plist
+SHA1-Digest: UjR8anz0L3Cr8E9Cquif3uKPnTc=
+
+Name: assets/shapeF/f3-3-6.png
+SHA1-Digest: kX17IsOei7A04iOpb1y1Yiqe9Kg=
+
+Name: assets/shapeF/f3-1-6.png
+SHA1-Digest: p9k1H4jpKaXN9vbYPLLBBt33fjw=
+
+Name: assets/skillW/WS7-3-5.png
+SHA1-Digest: 6drJGZllsUFw4KBr4MOsqf1gmF4=
+
+Name: assets/skillW/WS1-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS1-2-3.png
+SHA1-Digest: iAfLE/G9IJUWeBtOt9HCUKa91E0=
+
+Name: assets/skillT/LS7-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS10-2-3.png
+SHA1-Digest: +Im8HQTwORPtCdt69wNQIVWiR7U=
+
+Name: assets/shapeT/l3-2-1.png
+SHA1-Digest: uysK49BtmtrBPhSTiSPvp6WXpic=
+
+Name: assets/skillF/FS8-2-5.png
+SHA1-Digest: KqbMH9/kXcnw8kmno9NinHbv2tE=
+
+Name: assets/shapeF/f1-2-4.png
+SHA1-Digest: 6UujDaKXKyAAu4wsl41/xH6oYo0=
+
+Name: assets/skillW/WS1-2-3.png
+SHA1-Digest: 3wxf3noDQ2evo2hfo8l10CFBnRI=
+
+Name: assets/shapeF/f2-1-7.png
+SHA1-Digest: dAwygQEOXh2J21Q6mZf19DFPPIs=
+
+Name: assets/shapeW/w1-1-7.png
+SHA1-Digest: UfF/ojH823A5lTmT7H4iaLwxs2w=
+
+Name: assets/shapeF/f1-1-10.png
+SHA1-Digest: 0NjeJGYiwNhlpFFWuMvdW+XLVoY=
+
+Name: assets/shapeW/w1-3-8.png
+SHA1-Digest: 3Y18EJyltFTHmJABMEyfB2Cw7Xs=
+
+Name: assets/map/map_4_1.plist
+SHA1-Digest: u2STVKC22HMSt5Ve/RdQWlVtXPM=
+
+Name: assets/skillT/LS2-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillW/WS10-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/shapeT/l1-3-4.png
+SHA1-Digest: ZLvnzyDaGHDhWhsoSXOauP+uLi8=
+
+Name: assets/skillW/WS9-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillW/WS3-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillF/FS4-2-3.png
+SHA1-Digest: 5s1Q7QJRkHJryqWX9aZQhQ7iS5s=
+
+Name: assets/skillT/LS10-3-2.png
+SHA1-Digest: aT6q8DhRJVPldpaiZ1sNGVHvaxc=
+
+Name: assets/skillT/LS7-4-3.png
+SHA1-Digest: ksq7vRazzBVe3xDG+9e72APgsBs=
+
+Name: assets/skillT/LS5-3-5.png
+SHA1-Digest: pfZc/P71HFFrKrXgetspW75/UA4=
+
+Name: assets/shapeT/l3-3-6.png
+SHA1-Digest: H5To/0VVTJuGQBvdhslam8oU6cI=
+
+Name: assets/field/field04.png
+SHA1-Digest: hQn3X9Wzx0pl3QFiwEvpnmJGrTk=
+
+Name: assets/skillW/WS5-4-4.png
+SHA1-Digest: LXonepYFtWsdnPxhX/KRhXzEaLc=
+
+Name: assets/shapeF/f1-2-8.png
+SHA1-Digest: jIfvhu0jKXLr1QPHG6A54WKFEk0=
+
+Name: assets/skillF/FS10-2-3.png
+SHA1-Digest: AvJcpwYvfC6hSgIK/2wYG0j3648=
+
+Name: assets/shapeT/l3-3-10.png
+SHA1-Digest: rTRKP9Y+BHBWYhbz+ysf9nJ/gak=
+
+Name: assets/shapeW/w1-3-2.png
+SHA1-Digest: iStGi3aQIjwSs5oKC3uxnWdsnv8=
+
+Name: assets/shapeT/l1-1-6.png
+SHA1-Digest: gK6QuV57fUkS73letht3OKP56DY=
+
+Name: assets/map/map_2_4.plist
+SHA1-Digest: sGg+m/h/fWTWyaJhxThqYd/MNS4=
+
+Name: assets/map/map_6_4.plist
+SHA1-Digest: D+LFX/hfx3CP0xVz8lFVsyUqc1Q=
+
+Name: assets/map/map_7_8.plist
+SHA1-Digest: dxkuUvSlS/lO57qrzES9aV9w0yw=
+
+Name: assets/skillW/WS8-3-2.png
+SHA1-Digest: kz16uahRif5Wcw4B3f05kHWvXbs=
+
+Name: assets/skillF/FS2-1-4.png
+SHA1-Digest: 0Y5HaGgv3THSjNGQV/zOX9VU13M=
+
+Name: assets/skillW/WS7-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/map/map_7_2.plist
+SHA1-Digest: QLc4td55t6PS7JoC2RHAMkgrCLY=
+
+Name: assets/shapeF/f2-2-2.png
+SHA1-Digest: ipnvTOz/Uxohud0QYYvi3/ntAI4=
+
+Name: assets/skillT/LS4-3-2.png
+SHA1-Digest: 89nW9l+lbzjwIT8M+DbfkiABhl8=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: BoLkfiIFe77i34exfP7BramG/ho=
+
+Name: assets/map/map_8_1.plist
+SHA1-Digest: qAbEEsHpJ0P17nv8W6jFgLyr4lw=
+
+Name: assets/skillW/WS6-4-1.png
+SHA1-Digest: PjJ9LXboG6Z4wkgKFWv2EDC2oWI=
+
+Name: assets/shapeW/w3-3-3.png
+SHA1-Digest: n5qCbe4l6/hnv0IVqJD9M3cm+lg=
+
+Name: assets/skillF/FS10-4-4.png
+SHA1-Digest: P76tQoCn4Nxh786oERWryWA+KI8=
+
+Name: assets/skillF/FS1-4-3.png
+SHA1-Digest: qZGfWykEJh3rAVC/JBz1FnVAOoU=
+
+Name: assets/skillF/FS6-2-2.png
+SHA1-Digest: ZgG/gtdhOsGqNvsA5rOgu7RFrK0=
+
+Name: assets/shapeT/l1-3-6.png
+SHA1-Digest: BbWMOAPatidLMLVzA4u7MNQu3kM=
+
+Name: assets/shapeT/l2-1-2.png
+SHA1-Digest: m8qaFY+OB/ICBLSiXrbhHeO5cAk=
+
+Name: assets/map/map_2_9.plist
+SHA1-Digest: 9iwccp34CXWq/If+aSjHjvh3szQ=
+
+Name: assets/skillW/WS9-3-1.png
+SHA1-Digest: FxBSoGo9EX2LO1IgGhEJICdbm7s=
+
+Name: assets/skillT/LS8-4-2.png
+SHA1-Digest: +Ca24MhdAVuky6+HF+kn9lMbe6c=
+
+Name: assets/shapeT/l2-2-4.png
+SHA1-Digest: ZhkUyEcEITP8bh76e+A4Y8R+04w=
+
+Name: assets/skillT/LS10-3-1.png
+SHA1-Digest: bQ0iClw10q+P2QIIukDkAb+skms=
+
+Name: assets/skillW/WS5-4-3.png
+SHA1-Digest: zGNKvznqRF0m63aphIUlGM1+fck=
+
+Name: assets/skillW/WS5-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS3-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/skillF/FS6-3-4.png
+SHA1-Digest: NBQuRyBow6YWNMHT5+u4OfKdR48=
+
+Name: assets/skillT/LS3-3-1.png
+SHA1-Digest: hC3NyQcDMkJ9KWH1Fre2ficJ6Gw=
+
+Name: assets/shapeT/l2-3-10.png
+SHA1-Digest: RT6gMybZF9JNiqyNACt+yTpRdPg=
+
+Name: assets/skillW/WS3-4-3.png
+SHA1-Digest: CnUzJuI3c9P6W7qnLWN4UUVzI3I=
+
+Name: assets/shapeT/l2-2-9.png
+SHA1-Digest: 8XJMKU1TkSkyTHUdAGRgItAli+g=
+
+Name: assets/mapImages/HelloWorld.png
+SHA1-Digest: wBbY3PxovsuT5FDI/nujhiVJmHc=
+
+Name: assets/skillT/LS8-4-4.png
+SHA1-Digest: b/nuLxDIZkfNEarQKBxoAbpUlJA=
+
+Name: assets/minimap.png
+SHA1-Digest: Bo2TEKIAgULieH3zLAITal2iCJY=
+
+Name: assets/skillT/LS8-2-1.png
+SHA1-Digest: QrzxPAgqYu9kW3yk83g3e89Xofs=
+
+Name: assets/skillF/FS3-2-5.png
+SHA1-Digest: 2Tnkld+NQx6l/sSR74y/sSUPZLQ=
+
+Name: assets/skillF/FS8-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/bush.png
+SHA1-Digest: hcG15y/ni/maHe/RoKpYN/dJYbs=
+
+Name: com/tapjoy/res/tj_close_button.png
+SHA1-Digest: m97VL++AjPPMWodt3CJ38F4XyBY=
+
+Name: assets/skillT/LS8-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/mapImages/on.png
+SHA1-Digest: tJ2BjIw80yyJifWkYN2BxUc+JeA=
+
+Name: assets/skillT/LS1-2-1.png
+SHA1-Digest: kdhx3jRvDr5Ae0WIAdsvfYdCsBg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: T7jCCqaBHZydFrghJhlARmdI7xk=
+
+Name: assets/border.png
+SHA1-Digest: rkVgLBBXyW01zuKrfCb1Xd2vQ6U=
+
+Name: assets/talk/character1.png
+SHA1-Digest: 9gqr9AkxTMtcUrfooAby0kOAfTE=
+
+Name: assets/chageShop.png
+SHA1-Digest: 9WoVC/6jObGoimRXtJulV5n4ifo=
+
+Name: assets/skillW/WS3-4-4.png
+SHA1-Digest: KmsyAWqDOarTIits424PZuDsBRI=
+
+Name: assets/skillW/WS9-2-2.png
+SHA1-Digest: T2LSmmAnkDdfOSVjcih6MK1nQ0E=
+
+Name: assets/shapeF/f3-3-2.png
+SHA1-Digest: 3/oijNSIJvYQyd484MJuE0pzvwY=
+
+Name: assets/map/map_6_6.plist
+SHA1-Digest: Y+z7XfWiWNRdN9GIlOMZXCk6t/o=
+
+Name: assets/skillF/FS7-2-2.png
+SHA1-Digest: wLg84DGshK3zbhERQDt5siOga9w=
+
+Name: assets/skillW/WS8-2-3.png
+SHA1-Digest: 3vfJ0YHTyziIHkNbGRPNWxJZpTA=
+
+Name: assets/skillW/WS4-4-2.png
+SHA1-Digest: ebSPs5KJzKqHpZ8nKWkkv41FDro=
+
+Name: assets/load_bar_bg.png
+SHA1-Digest: 17JBXFKInIq+TBtZT+gv2k9335U=
+
+Name: assets/mapImages/bird_1_1.png
+SHA1-Digest: FC1mwUaeNF6nPrXHgNmAvwry48I=
+
+Name: assets/shapeW/w1-2-1.png
+SHA1-Digest: utFFdUGBowuvU8y6owyN/HipMgc=
+
+Name: assets/skillW/WS7-2-3.png
+SHA1-Digest: 3wxf3noDQ2evo2hfo8l10CFBnRI=
+
+Name: assets/map/map_7_4.plist
+SHA1-Digest: idg6Ud+NftrBoXIbe2nacu2LEjc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/skillT/LS6-1-4.png
+SHA1-Digest: NzC5KOwVq2A3wGdO+41l9XRcB18=
+
+Name: assets/shapeT/l3-1-3.png
+SHA1-Digest: 08/Wc6j1drFMw3npdUHTAHI0Jd4=
+
+Name: assets/shapeF/f3-3-9.png
+SHA1-Digest: wc6cfu7QPoU2dS/Dc6c/QsyvwmM=
+
+Name: assets/skillF/FS6-3-3.png
+SHA1-Digest: /7HH6G+bYCokuPWP9c88e7jNrcI=
+
+Name: assets/skillF/FS8-3-3.png
+SHA1-Digest: KIiRPEtCYLpKgzfi6ZSObdLyPQ4=
+
+Name: assets/skillT/LS2-4-5.png
+SHA1-Digest: Y9q5s5BD9uKQskbGc0/oRG1jBfQ=
+
+Name: assets/skillT/LS10-4-3.png
+SHA1-Digest: XJhb2aUOAkU+eqDQ95Cd4KzN2u8=
+
+Name: assets/skillW/WS4-2-4.png
+SHA1-Digest: TLpQTXf1HtPDGLQ2BHdzGZab3H4=
+
+Name: assets/skillW/WS6-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/shapeF/f1-3-5.png
+SHA1-Digest: xEMD9rNlu4JSk1TUqrellr6MasA=
+
+Name: assets/skillW/WS5-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/shapeT/l1-2-3.png
+SHA1-Digest: J6LUd7XSIn0ZTC33vhYDBZN298Q=
+
+Name: assets/shapeF/f2-3-3.png
+SHA1-Digest: wt4z+j05mm/fSGkqSrcTWs5G3kM=
+
+Name: assets/map/map_7_6.plist
+SHA1-Digest: tMU6ibzIXYPkN1pTdtSgWCTvgzo=
+
+Name: assets/skillT/LS2-3-5.png
+SHA1-Digest: Lwc4LOqRlJQ4wcjCGqKc6XIHceI=
+
+Name: assets/skillT/LS3-4-5.png
+SHA1-Digest: kMjgigLtACefO6aJXjobM0VKWgM=
+
+Name: assets/lock.png
+SHA1-Digest: dYigElXmOe5jxPrVkT2ZzTc6WZk=
+
+Name: assets/map/map_2_13.plist
+SHA1-Digest: KEoskG8+wIpG4+rPHL7JEvGYqf4=
+
+Name: assets/talk/b1.png
+SHA1-Digest: NNf+H0CiZvf5Qb6wRcCWZzTtY9c=
+
+Name: assets/shapeW/w1-3-3.png
+SHA1-Digest: PIiDAAvtxGvHFtDFpo/3FoBZQv0=
+
+Name: assets/skillF/FS10-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/shapeF/f3-2-2.png
+SHA1-Digest: NAOSIZ2zGSFKk8j7fkeWtcDGVwk=
+
+Name: assets/skillT/LS4-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillT/LS8-3-4.png
+SHA1-Digest: VgvkCd0qyDQhSM9Z8wdHG31TlCE=
+
+Name: assets/skillW/WS8-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/map/map_4_3.plist
+SHA1-Digest: WYCjFGA1tRRtpWu5XwiB1cKUuoQ=
+
+Name: assets/shapeF/f2-3-5.png
+SHA1-Digest: moBoPNQJ0JrWa646yG3PD7cpKGg=
+
+Name: assets/skillF/FS3-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillF/FS1-2-1.png
+SHA1-Digest: kdhx3jRvDr5Ae0WIAdsvfYdCsBg=
+
+Name: assets/skillT/LS10-2-2.png
+SHA1-Digest: lqMFtZl8dhEmhf798nvFya/LKIY=
+
+Name: assets/shapeT/l2-1-6.png
+SHA1-Digest: mypymmBL34BvtxoCQ1o706/ejug=
+
+Name: assets/skillF/FS2-2-3.png
+SHA1-Digest: uYhnfVgqbb5QePFtfMlFDJIxapY=
+
+Name: assets/skillF/FS5-1-1.png
+SHA1-Digest: asBBjXWw6T8riKiFxa0iKZsipHw=
+
+Name: assets/skillF/FS9-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillF/FS5-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/enemyBar.png
+SHA1-Digest: Hyw3avOUGevmrsm+flQqIQWHFyQ=
+
+Name: assets/shapeT/l3-2-10.png
+SHA1-Digest: UsxJOuaxcPwvSHCYx4qVIdup5gQ=
+
+Name: assets/skillW/WS5-2-3.png
+SHA1-Digest: 0I/XWnpL/ga8YlHf1Bflb4ewUVA=
+
+Name: assets/shapeF/f1-2-5.png
+SHA1-Digest: T4DZuWDp/ivT3s9SwadQI9g4zg4=
+
+Name: assets/map/map_7_7.plist
+SHA1-Digest: K4V1BsqvegQgX4+nrL9THBP/Yc0=
+
+Name: assets/skillF/FS2-4-3.png
+SHA1-Digest: vc8xHc/MlZZrgnzWoUkYEh6DB30=
+
+Name: assets/skillT/LS2-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/map/map_6_11.plist
+SHA1-Digest: FZttlBL0JsAi7YdInaQyEvgjwi8=
+
+Name: assets/skillT/LS4-1-1.png
+SHA1-Digest: kwgvpsE2CFVsiyA2CeIe7vJIi0Y=
+
+Name: assets/skillT/LS3-3-3.png
+SHA1-Digest: Tll0+plD7ETwV0ntyCWsnhtvonk=
+
+Name: assets/map/map_5_4.plist
+SHA1-Digest: m0uPbn55aUsVT4Hw94dsCz6qESA=
+
+Name: assets/map/map_8_2.plist
+SHA1-Digest: nNh5Cm09kluX8ZFtfvHfKkFWrsE=
+
+Name: assets/shapeW/w2-3-5.png
+SHA1-Digest: U4abYePkbuuhwRqPTBCs9pcGAvo=
+
+Name: assets/shapeW/w1-3-7.png
+SHA1-Digest: 6eiVh1TR55/cJ238uMqHQmaHBzE=
+
+Name: assets/skillW/WS8-4-4.png
+SHA1-Digest: yf8r3qUcI0gjB/3zHaoG4rrSPrg=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: TFcyUMg7/mH+2cBTWkdGrPQqMVA=
+
+Name: assets/map/map_6_16.plist
+SHA1-Digest: zqJrluXo5MitzExoO2b/qcuvS84=
+
+Name: assets/shapeT/l2-2-6.png
+SHA1-Digest: Uzt5DS1C+T1VaARcujdHCgUhnoE=
+
+Name: assets/skillF/FS3-2-1.png
+SHA1-Digest: Yrz7GMG0oIbw1KMlxdIiQEP0XPM=
+
+Name: assets/skillW/WS10-3-3.png
+SHA1-Digest: wWdGBfhZ3GrWZuxCV6K5r23vq5c=
+
+Name: assets/shapeW/w3-1-9.png
+SHA1-Digest: tn2u+nl3rNbvtpJZzTbRbO+9Mk4=
+
+Name: assets/skill2.png
+SHA1-Digest: jZa0+vaVlopG7AscIzDFOM2bzag=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_dark.9.pn
+ g
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/skillW/WS4-3-5.png
+SHA1-Digest: B6r0hYkSppnSEdhOASPT9hCv1y0=
+
+Name: assets/fireMap.png
+SHA1-Digest: CEthpTkZGxKMKuesoiGISIb7bQA=
+
+Name: assets/skillF/FS4-4-4.png
+SHA1-Digest: rIDxGCbcm7FcmFZaYfd57rwj0eI=
+
+Name: assets/skillT/LS1-2-4.png
+SHA1-Digest: 1l7IZ0KRGhP0vnpznBx99PaSVoA=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: assets/skillW/WS4-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillW/WS6-3-4.png
+SHA1-Digest: J40ci9McZlcTHTLx8e27G5/yywc=
+
+Name: assets/map/map_3_3.plist
+SHA1-Digest: y7JOo7zI5iVit/0kKZaDBy9LLdk=
+
+Name: assets/shapeW/w3-1-4.png
+SHA1-Digest: U49YHitNEj8kOkuB89mZMcZqDU0=
+
+Name: assets/shapeF/f1-1-9.png
+SHA1-Digest: 4CNbFt05krY22zat9PSoIoDjn6g=
+
+Name: assets/talk/white2.png
+SHA1-Digest: uj9CdGJ0KbMxiv1K2hgZcDHJGVY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_light.9.pn
+ g
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/remove.png
+SHA1-Digest: Dz18EhR3H0qFOgg/znNP6SUGh8E=
+
+Name: assets/skillT/LS8-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillF/FS2-1-1.png
+SHA1-Digest: OLQsO4UWF7j3JVibdRrCKPPMUuU=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: QYh2nD1m7jlx/o9T89tEeXbY/pI=
+
+Name: assets/skillW/WS9-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS7-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/map/map_4_4.plist
+SHA1-Digest: w6fdUQyeXwWXOASMjydBftL/DLE=
+
+Name: assets/skillW/WS7-2-5.png
+SHA1-Digest: wKhCyHhsZ4LVACL9kaFyrkP9hAA=
+
+Name: assets/shapeF/f2-2-6.png
+SHA1-Digest: GP9QuKEXdtV3SlhgZtZ31jkdpTY=
+
+Name: assets/shapeT/l3-1-9.png
+SHA1-Digest: L/qRnXDUULQvsLwag7kBSBXJNwI=
+
+Name: assets/skillF/FS3-4-3.png
+SHA1-Digest: Mk99RA7RNbMOwdwLUnsF6LLJuFo=
+
+Name: assets/shapeF/f2-3-6.png
+SHA1-Digest: xpUCrSZ7r2n1WpFTqbzsYQ3/vVk=
+
+Name: assets/map/map_4_7.plist
+SHA1-Digest: 2wKifocLodMQJwFfHLnPYvDsRTs=
+
+Name: assets/skillW/WS2-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/shapeF/f2-1-5.png
+SHA1-Digest: q/dQ+PvhswOB3w/g/F9Zpv1bGZs=
+
+Name: assets/skillF/FS5-4-4.png
+SHA1-Digest: 7s7F9QS10hgb/1onW1hsHvFuKHk=
+
+Name: res/drawable-mdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: xWYT0qzRVNaGybBaBeMKbeGgkgE=
+
+Name: assets/skillF/FS1-2-4.png
+SHA1-Digest: 1l7IZ0KRGhP0vnpznBx99PaSVoA=
+
+Name: assets/talk/1pixel.png
+SHA1-Digest: RHokg0e/LgA9890XUEAwaFde4Bk=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: LtV8CfoAmgWuTGWNZXeWeNDR1hY=
+
+Name: assets/stackSkill2.png
+SHA1-Digest: cpuOyFSUbY61lwLqpfYJGd8D8nA=
+
+Name: assets/skillF/FS3-3-1.png
+SHA1-Digest: 1arb/0+nJ/nkrbrV3J9ymLHap8Y=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: GsuPJv1dNcolfrnKEL4GX2NHRmk=
+
+Name: assets/sound/battle.wav
+SHA1-Digest: 70OiKN+/MBOacHZs+dBRmReaiGc=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: pt2sGm+R9IKa/yNYVOguoJ1i7qI=
+
+Name: assets/skillT/LS4-3-3.png
+SHA1-Digest: qCq/klbwBmf2XGi2xs1+/Zjafqo=
+
+Name: assets/shapeF/f1-2-6.png
+SHA1-Digest: kFM8zgGnNcpm1mKDbQ9YUrYvJXE=
+
+Name: assets/skillF/FS1-4-2.png
+SHA1-Digest: WGMZsGsEjhi69j5D9snOkW23BBM=
+
+Name: assets/upgrade.png
+SHA1-Digest: DO5GjMHo3qIO31uY5mticIywkLg=
+
+Name: assets/shapeF/f1-3-6.png
+SHA1-Digest: PM+HZV2sZXmIUu4L8lI+No0GgmA=
+
+Name: assets/skillT/LS10-4-4.png
+SHA1-Digest: Q31kK7je6hG7kfNpntE1oyTzxiI=
+
+Name: assets/skillT/LS10-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillT/LS9-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/shapeT/l2-3-7.png
+SHA1-Digest: LYvvuksJWLkTjO1hI+w69HXX0mQ=
+
+Name: assets/skillF/FS2-4-2.png
+SHA1-Digest: uN3+Mmj9q7J3Q3rM4QsmmZu2gAw=
+
+Name: assets/skillF/FS7-1-4.png
+SHA1-Digest: USZ8OQ8CvOvD4ZHQkbSL0BTUeWs=
+
+Name: assets/skillF/FS8-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/item.png
+SHA1-Digest: q+N3Ds0D4v3RvQNV+EKl0Fk+51o=
+
+Name: assets/map/map_9_1.plist
+SHA1-Digest: UP8rsuU0eh7aryzgi65iT96n7PU=
+
+Name: assets/skillF/FS7-3-3.png
+SHA1-Digest: oYOBPiqHxOxhSZpyEepmZtzD01U=
+
+Name: assets/shapeT/l2-2-7.png
+SHA1-Digest: YOrmNXOl9pl4XySOGOjJMpdki3k=
+
+Name: assets/shapeW/w1-2-3.png
+SHA1-Digest: HBmle3Sa3FyMeS0wl2+LSx8oGd4=
+
+Name: assets/shapeT/l2-3-3.png
+SHA1-Digest: 0chcGEyxlbP4JWRkOOERJrURNRg=
+
+Name: assets/shapeF/f1-2-7.png
+SHA1-Digest: kM3WsB12j/ikAquHLtwTwnWiQIM=
+
+Name: assets/skillT/LS2-3-3.png
+SHA1-Digest: qTSvvfhd5zcVUYpJsUTSPxDkbhE=
+
+Name: assets/map/map_8_20.plist
+SHA1-Digest: /56IFE6GQMUVyDwBk91CXekF2+k=
+
+Name: assets/skillF/FS2-3-3.png
+SHA1-Digest: cXsIFuV40uAWasphQYxGz5FZLpc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_light.9.pn
+ g
+SHA1-Digest: MNi9MV8wCkdDwmYH6J7+SbIAI1k=
+
+Name: assets/tutorial4.png
+SHA1-Digest: AdzHC3bow+10qq3FZ4M1uitrdFQ=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: Rji/n2xRvtGaP+TQ6Skj0HYw1UY=
+
+Name: assets/skillW/WS1-3-5.png
+SHA1-Digest: WVejCcBwhyLk8i7Q6JyOJ5aKiTs=
+
+Name: assets/skillW/WS10-4-4.png
+SHA1-Digest: kLDANUQC3KVm8D4+QUVSINdjyW0=
+
+Name: assets/mapImages/bird_1_2.png
+SHA1-Digest: BYKa8hZq1R7NrZUV6/qVwG8uMbY=
+
+Name: assets/map/map_9_9.plist
+SHA1-Digest: Tu9QRcuv8HsoxS7U67noBFmIwDg=
+
+Name: assets/map/map_7_12.plist
+SHA1-Digest: SwFxqFIufZs1904iDf7ZDBbhfeM=
+
+Name: assets/skillF/FS2-3-2.png
+SHA1-Digest: S1BBrSCM529yLwnVYElMirPiKew=
+
+Name: assets/map/map_1_5.plist
+SHA1-Digest: 4zh+PlVtFpE2E5qmJnL2FcwENhI=
+
+Name: assets/map/map_3_17.plist
+SHA1-Digest: SKYwEv9WqFto0nDqLV9LYoH7tgk=
+
+Name: assets/skillW/WS9-3-2.png
+SHA1-Digest: XSopa/VB8KFS6MA/ZvfWXlLzw0I=
+
+Name: assets/original_images/playerBar.png
+SHA1-Digest: tiLXYS13ZkK88zmuRDuOgMjTikg=
+
+Name: assets/shapeT/l3-2-7.png
+SHA1-Digest: RZsho0jadQGSdttznueWq5qIrCI=
+
+Name: assets/skillT/LS2-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillW/WS7-2-4.png
+SHA1-Digest: OXrHa8hW4d09MMfusKtG8LOigo0=
+
+Name: assets/shapeF/f3-2-5.png
+SHA1-Digest: HWco8uAq8oppGYyGWBYjy191aXU=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_focus_ligh
+ t.9.png
+SHA1-Digest: KfT1DbEuXyhvG18n0yILeVsK0Vo=
+
+Name: assets/skillT/LS5-4-5.png
+SHA1-Digest: jnv0Xr3EEP3pLhmMyj6qjQDc52A=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: pyKGvlDIcuabjUP3XyADkEc6qG4=
+
+Name: assets/skillF/FS7-2-4.png
+SHA1-Digest: 1l7IZ0KRGhP0vnpznBx99PaSVoA=
+
+Name: res/drawable-mdpi-v4/powered_by_google_light.png
+SHA1-Digest: ZTHLPZe63ATwVGAlXju4hnecsME=
+
+Name: assets/skillT/LS4-2-1.png
+SHA1-Digest: a4BThGbq0snowAufpgFiErtTwAU=
+
+Name: assets/shapeT/l3-3-4.png
+SHA1-Digest: K9Cn+Xn3j2YAdMfSegurlbIXnM8=
+
+Name: assets/skillW/WS7-4-3.png
+SHA1-Digest: BWalr4eagB7/5FaLRDMaPMrMi7k=
+
+Name: assets/skillW/WS1-4-4.png
+SHA1-Digest: /DVVDUxsoR5YxQA15OcWRaaTy6o=
+
+Name: assets/shapeF/f2-1-1.png
+SHA1-Digest: aazR0P2VAgy+TD6A7wrUDStHgqc=
+
+Name: assets/skillT/LS7-3-3.png
+SHA1-Digest: t4RlFrXFzbJLclsLHGPrmRH6P6Q=
+
+Name: assets/skillW/WS10-4-1.png
+SHA1-Digest: Y1em5CZrz/+4sVxc45YhQ+AqFRY=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: XfiPEQDAz6Ng5Q70xPZblJiqGT8=
+
+Name: assets/shapeT/l3-3-3.png
+SHA1-Digest: NR6bntKDFhkpkc/+jnxSAjjzylA=
+
+Name: assets/skillT/LS7-3-1.png
+SHA1-Digest: H2ePihjGdRCfhucL2+a6YybMkhw=
+
+Name: assets/ranking.png
+SHA1-Digest: Tyv3oA1w/UxqDs8b4xkjY3lYH6k=
+
+Name: assets/skillW/WS10-3-5.png
+SHA1-Digest: gl8YwcYvJjlnE8JCBitVy4Q2oRs=
+
+Name: assets/map/map_8_24.plist
+SHA1-Digest: p+am7XJLrm9bktOaJYviVk+bsyw=
+
+Name: assets/skillF/FS1-3-1.png
+SHA1-Digest: XSgiWA/21KpC31wer6MtzEkSbFc=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: NxEAwKvmC74alKVWLW6x30O7WN4=
+
+Name: assets/shapeT/l2-3-9.png
+SHA1-Digest: kTuT1pgGHB/oiAUhOfAhtYzd8bc=
+
+Name: assets/skillT/LS6-3-5.png
+SHA1-Digest: XvggeaDiouFj9TKDHypyAu39Sx0=
+
+Name: assets/map/map_9_7.plist
+SHA1-Digest: 2pVGCwKr6eifYNkmz2rdc6VFBX0=
+
+Name: assets/skillT/LS3-2-4.png
+SHA1-Digest: Jtd5RMOawkTJ9IRgkP43Oz+E0A4=
+
+Name: assets/skillW/WS5-4-2.png
+SHA1-Digest: LXonepYFtWsdnPxhX/KRhXzEaLc=
+
+Name: assets/skillT/LS9-3-3.png
+SHA1-Digest: fX4fYfgZId+NqoFndgq1G4HS2vE=
+
+Name: assets/mapImages/star_1.png
+SHA1-Digest: qO91Du5smMfhwRPo1tTYpcwbiXU=
+
+Name: assets/skillF/FS9-4-4.png
+SHA1-Digest: YrZ9bJh2pZgF+tag+qjVQofI2j0=
+
+Name: assets/shapeW/w3-3-10.png
+SHA1-Digest: QZdDu0X/9ZaTqNYnio2H/sUtC6Q=
+
+Name: assets/shapeF/f2-1-4.png
+SHA1-Digest: 0Jl+GNSEgu6ukm2xt7CmBVMQIvE=
+
+Name: assets/mapImages/load_bar_bg.png
+SHA1-Digest: EE9U9NCBLY+EWUcUHWoX5p+O0qw=
+
+Name: assets/talk/chonjang.png
+SHA1-Digest: m2aec9bBHiLjdTe12pDyF0Sq/yk=
+
+Name: assets/skillW/WS2-2-2.png
+SHA1-Digest: W6BeWpNIZSxPDWQ20JCJmOF1wDw=
+
+Name: assets/skillF/FS7-4-2.png
+SHA1-Digest: v/ZB767QKJfQXVUURNRoHLlRCm4=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: 4LnPZ0EIh2yTqhOvCTdrDYEF9vg=
+
+Name: assets/skillF/FS4-4-5.png
+SHA1-Digest: fsErmesf78Ar8HDfGQfD7Iy9Fz4=
+
+Name: assets/skillT/LS8-2-4.png
+SHA1-Digest: VTFUh/P7ehzevdGQLNKUenaSFGg=
+
+Name: assets/skillT/LS6-3-1.png
+SHA1-Digest: X3c3PblWXRoNOixQMb4y19Kttdc=
+
+Name: assets/map/map_8_19.plist
+SHA1-Digest: o+feHvybT0GfFeW9t9WqV3zBH+4=
+
+Name: assets/skillT/LS9-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: bIAQSJr/EfWZjIQk19BSgzvxEPU=
+
+Name: assets/skillW/WS1-3-3.png
+SHA1-Digest: UrV5Im4twxKaOycuxlb9GNifZiU=
+
+Name: assets/skillF/FS8-2-3.png
+SHA1-Digest: 0HWZmCITGOYW4QFT3awZ9vkLTZU=
+
+Name: assets/shapeF/f2-3-2.png
+SHA1-Digest: e7mVSqrhcH4I8b4QPsW10DXlXRA=
+
+Name: assets/skillW/WS2-3-4.png
+SHA1-Digest: pObGrN1FqlL29eGH5UTTIYgcFYo=
+
+Name: assets/sound/dotbutton.wav
+SHA1-Digest: K6h/l/2tSc4tsVMgbJXkYCVW/Zs=
+
+Name: assets/skillT/LS1-2-5.png
+SHA1-Digest: Wsz1hfXIu2+XC2dw/PVgfW/9qgE=
+
+Name: assets/skillW/WS3-2-4.png
+SHA1-Digest: QdvvUDDYfukPYyAEOQUQ8+MeBmE=
+
+Name: assets/map/map_5_13.plist
+SHA1-Digest: aI15COR3iHIJHuwEllTd7IDv0dU=
+
+Name: assets/skillT/LS2-4-2.png
+SHA1-Digest: 7XS9qtNnl+NRSlmRFHWQaAyjpow=
+
+Name: assets/skillF/FS3-4-2.png
+SHA1-Digest: xl5BFTubDN+4aQLmSv2tkgTu69A=
+
+Name: assets/skillF/FS8-4-3.png
+SHA1-Digest: itUfSBzERSm7YCuyeTs5wXAzSLQ=
+
+Name: assets/skillT/LS3-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/shapeF/f2-2-5.png
+SHA1-Digest: oXuyNpcW/MgVem03YTpXturcNgY=
+
+Name: assets/mapImages/star_2.png
+SHA1-Digest: QGq0+dh1cSTF89A9Lcp2q2LD28Y=
+
+Name: assets/shapeW/w3-3-8.png
+SHA1-Digest: al03Up4r3RpgwxXGC9Dfqij1NoI=
+
+Name: assets/skillW/WS5-4-1.png
+SHA1-Digest: MQX7PC7b/jDghegEfu3Ka/BgBc4=
+
+Name: assets/shapeT/l2-1-1.png
+SHA1-Digest: R88Owj9q4smvjKK4MlT1oUkofVc=
+
+Name: assets/skillT/LS10-4-2.png
+SHA1-Digest: aclzrUUUaDW/86u90v7/F5YK5NA=
+
+Name: assets/shapeF/f3-2-1.png
+SHA1-Digest: hbcDtjLvBxVfm8VSL2SB/6D6CLw=
+
+Name: assets/shapeW/w1-3-9.png
+SHA1-Digest: M35eHIERdI66o94Ic1tWScKQ7g8=
+
+Name: assets/skillF/FS9-2-5.png
+SHA1-Digest: 6PkYetQNfblxdk+2/gRM7sUmfQM=
+
+Name: assets/map/map_9_2.plist
+SHA1-Digest: aqzordvDhEyhzj+cOTSZW94wV8Y=
+
+Name: assets/skillW/WS9-3-4.png
+SHA1-Digest: XJRgiVisdhP3Med/2yvYILasrJ8=
+
+Name: assets/skillW/WS8-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/map/map_8_5.plist
+SHA1-Digest: kv/lygeivZRq8s0tstDY7RRvyds=
+
+Name: assets/skillF/FS7-2-3.png
+SHA1-Digest: iAfLE/G9IJUWeBtOt9HCUKa91E0=
+
+Name: assets/skillF/FS8-4-5.png
+SHA1-Digest: 17IpgyG9tyaJ1ivjdkD15ALCAuQ=
+
+Name: res/drawable-hdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: NHqkBfIL0tvXQGsGHO91mUCAPyI=
+
+Name: assets/shapeF/f1-3-3.png
+SHA1-Digest: f5oW/O3MI5lhU8KBfCJY/BvKPBw=
+
+Name: assets/skillF/FS4-3-5.png
+SHA1-Digest: CUaYm4S4LRhjTfdPKiECM+luHt0=
+
+Name: assets/skillF/FS9-2-3.png
+SHA1-Digest: Pz8xa3PYwkW3BxlrrqyCRzTma64=
+
+Name: assets/shapeF/f3-3-7.png
+SHA1-Digest: WEajtcfkAF1pnKNldEyE7VaPPy8=
+
+Name: assets/skillF/FS4-2-4.png
+SHA1-Digest: 8JJkx2eSbGk/t6rkMN9r6FKnxaE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: WDwqcy6yDbnca5VTvWWktckJuL4=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_light.9.pn
+ g
+SHA1-Digest: ZKYQRM+6FnZ8NFfqxj2cRG8euKk=
+
+Name: assets/skillW/WS7-4-1.png
+SHA1-Digest: JpfQFkqC1V6d45kEANfVWu4I8FU=
+
+Name: assets/shapeF/f3-2-7.png
+SHA1-Digest: HFB59t3Qxuts0/Hb3x2uqO6CidI=
+
+Name: assets/shapeT/l2-1-5.png
+SHA1-Digest: 68u6J+cuFIZxFdN3EyYYSAFORDs=
+
+Name: assets/shapeW/w3-2-3.png
+SHA1-Digest: vzqhOefYMNgk1NXTYeIWZzgUtSk=
+
+Name: assets/skillF/FS1-3-5.png
+SHA1-Digest: oMb93UrxbrknyyfOtF7sm6KGvxA=
+
+Name: assets/skillF/FS9-4-1.png
+SHA1-Digest: VAgrvSF6f/2Plw1L616hN2XT5Ts=
+
+Name: assets/skillF/FS4-3-3.png
+SHA1-Digest: WX6aYzcaE9DIpFA6j+RTB1NcTcI=
+
+Name: assets/mapImages/btn_start.png
+SHA1-Digest: qNCSNtOCsVNIU9R8ef3gaVgg1t0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: /5RFzsw1zwQJHkUKjDGzni0BQNE=
+
+Name: assets/shapeF/f1-1-7.png
+SHA1-Digest: LLMathpfwMOtEIW/mNLTDMGC7vk=
+
+Name: assets/shapeW/w1-2-4.png
+SHA1-Digest: pOtRaokr0B9SitxU2mZfoDCuemk=
+
+Name: assets/skillF/FS2-4-4.png
+SHA1-Digest: wicpkJrKXlfa163r9KnQEVG+4MI=
+
+Name: assets/shapeF/f3-3-4.png
+SHA1-Digest: pQyHWYK5a1H3mTuRw/zHcOOpWM0=
+
+Name: assets/skillF/FS8-4-1.png
+SHA1-Digest: kSeSXFsJaEuJtugqelzUXGjYRA0=
+
+Name: assets/skillW/WS4-2-1.png
+SHA1-Digest: ELqfN/iGcBQwVrt/95RYsuv6DU4=
+
+Name: assets/skillW/WS2-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/shapeT/l1-1-7.png
+SHA1-Digest: N3Dz8TvxfRzbIBjslLYgU9T6CPk=
+
+Name: assets/map/map_1_2.plist
+SHA1-Digest: 3QBzkXoH4DeGcLkMKQPu7z99jX0=
+
+Name: assets/original_images/enemyBar.png
+SHA1-Digest: g13zTSgG01zoO2CQhKfFqppagXk=
+
+Name: assets/skillF/FS10-2-5.png
+SHA1-Digest: t7Zy1C7MyeLhpwxw8RB53dxngks=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: FMoZxbKyy1t4RWJZNFgkkfl6R2I=
+
+Name: assets/map/map_9_6.plist
+SHA1-Digest: uTtLZIrZpnZ/qDCxmYxzKqBPG0Y=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: znT4P8AI3xcWsBof3ElTFY2hDrk=
+
+Name: assets/skillF/FS3-3-4.png
+SHA1-Digest: 6vmnO6B5oPUJ5JVo9Md+JO2vVCc=
+
+Name: assets/skillT/LS5-2-4.png
+SHA1-Digest: c4o1NZAWcWGNyruVPkt7C1r0Y/Y=
+
+Name: assets/shapeF/f3-2-10.png
+SHA1-Digest: eA8sPMiEAyY9spJvWSueHDCg3FQ=
+
+Name: assets/skillF/FS3-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/map/map_1_4.plist
+SHA1-Digest: zYcA7jVzDWHCgAv4NrN0l2/5sLw=
+
+Name: assets/map/map_8_8.plist
+SHA1-Digest: z9x4yEzEooxFLfPQ4K2I4+ezgWg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: l4wPPYunAqUs5TQYb14SXXQJQ+I=
+
+Name: assets/stackTime.png
+SHA1-Digest: Z0n68N9n6KtXPGMoxJNN7Itb5Ak=
+
+Name: assets/skillF/FS9-3-3.png
+SHA1-Digest: LwCsF5FILPk3RwIFW66eSNP+p74=
+
+Name: assets/skillF/FS4-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/skillT/LS4-2-4.png
+SHA1-Digest: ZPOmAseFb/3ccpfO66aQlcC+ays=
+
+Name: assets/shapeF/f3-1-1.png
+SHA1-Digest: FX5v0t+5F4+/z4f9HSZgYXwPk8Q=
+
+Name: assets/skillW/WS4-2-3.png
+SHA1-Digest: q0GvqdCkXtK3hJczBJDK2c8jr94=
+
+Name: assets/skillF/FS2-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS3-4-1.png
+SHA1-Digest: 7nBJZqexfSwgK38lffGrYKL51Vw=
+
+Name: assets/skillW/WS3-3-4.png
+SHA1-Digest: Jz5HVwBBZ9OI3m08gBwjRDlGYdo=
+
+Name: assets/shapeF/f3-1-3.png
+SHA1-Digest: ZQZfg/AVLAYIRxO14MfZYNDlGgg=
+
+Name: assets/skillW/WS8-2-5.png
+SHA1-Digest: xFKvwwjISJOE/8m6TmoAGgcCjsM=
+
+Name: assets/skillF/FS5-2-2.png
+SHA1-Digest: WF4D2hc5vb+Og0CQYDyFQ8JGsM8=
+
+Name: assets/skillW/WS8-3-5.png
+SHA1-Digest: 61E2MOpqy98Sfzm/9VPaMGNDqJA=
+
+Name: assets/skillF/FS5-3-1.png
+SHA1-Digest: yFMoAhWCEx+c7kwDxBHgwK/VflE=
+
+Name: assets/map/map_6_20.plist
+SHA1-Digest: 5OOiyik3vXltWDxwkcQX/Aa0uzg=
+
+Name: assets/skillT/LS8-2-3.png
+SHA1-Digest: f+LkR8zKMEyFl3b8hAkOHuEX1G4=
+
+Name: assets/map/map_2_11.plist
+SHA1-Digest: rGbCM+eRiQ+MtRmvsOTJ0eYmbyA=
+
+Name: assets/skillF/FS1-4-4.png
+SHA1-Digest: 2+s1bdnon/g8BzSz4rLbXcblX/A=
+
+Name: assets/skillT/LS4-3-1.png
+SHA1-Digest: JnnszcQIXJlV/180ToCiGBwAWcc=
+
+Name: assets/skillT/LS8-4-1.png
+SHA1-Digest: 1azZxonG1cVLX3/vk0WllrgMgrk=
+
+Name: assets/skillT/LS8-3-5.png
+SHA1-Digest: BCAZPD3h+LYLxjkDBnjqwKDMOdo=
+
+Name: assets/skillT/LS5-2-5.png
+SHA1-Digest: e5m1d2FvgjTUkBf0KLKXb7hW8LY=
+
+Name: assets/map/map_8_33.plist
+SHA1-Digest: Fa4bcykLQguywBAkR07M0+ZCHak=
+
+Name: assets/shapeW/w1-3-5.png
+SHA1-Digest: bQGOFyR70eyyWdiQsWDg8PJ6yW0=
+
+Name: assets/skillF/FS1-1-4.png
+SHA1-Digest: ao0vAs93GNhpMxEfqMUll8tPJIU=
+
+Name: assets/stackInfo.png
+SHA1-Digest: krP/bbB8+y/Bws6tXwyjWPg2VCo=
+
+Name: assets/skillW/WS7-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/map/map_3_10.plist
+SHA1-Digest: hBHJf3iRRDM1okmPp6MZXogh2Dk=
+
+Name: assets/map/map_2_6.plist
+SHA1-Digest: DnJHcapCj7YIc17C95rvOh44sYE=
+
+Name: assets/skillW/WS9-4-2.png
+SHA1-Digest: Wl6svcj1Q1dVlapMfmeSf/k72rU=
+
+Name: assets/skillT/LS10-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: qdpVIcOeVOJG3xTaI3TbVDJS/j8=
+
+Name: assets/skillW/WS3-3-2.png
+SHA1-Digest: uJWwLVCBshVv39O+WaWxvETFctk=
+
+Name: assets/skillF/FS2-2-4.png
+SHA1-Digest: HbiIm2gDgXaENfYITV1jaKG3H4U=
+
+Name: assets/shapeW/w2-1-1.png
+SHA1-Digest: uj47VImtw1bVaZKJ87dY3yhARgg=
+
+Name: assets/skillW/WS3-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillW/WS10-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillT/LS9-3-1.png
+SHA1-Digest: lm8wRNuTvX6FEAA/ZQieaivIgDg=
+
+Name: assets/skillT/LS8-1-4.png
+SHA1-Digest: cJrtVHHvXuemgCNTLxsjLRI/4/k=
+
+Name: assets/shapeF/f1-1-1.png
+SHA1-Digest: cck87wY6rEHE2Hg350GC4/c8X/8=
+
+Name: assets/map/map_8_11.plist
+SHA1-Digest: N01+PdKaYzItyB2CwCmDDeD8UfM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_dark.
+ 9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/map/map_3_9.plist
+SHA1-Digest: 7rFHuVjU0sgziZxyl0XnaJrJdow=
+
+Name: assets/skillT/LS4-3-5.png
+SHA1-Digest: /fyEOJHOkkyo92WbHy+MF/39xTI=
+
+Name: assets/map/map_8_13.plist
+SHA1-Digest: JUZKlASQNRo2mJIGZojsxIXb1dY=
+
+Name: assets/skillT/LS5-2-1.png
+SHA1-Digest: Dr4Cu8eXopv2riJ16e+EYmli+bI=
+
+Name: assets/skillW/WS10-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/shapeW/w2-3-8.png
+SHA1-Digest: OlkfmRXGYsLqyCX4EFc/BjY9AqE=
+
+Name: assets/map/map_7_11.plist
+SHA1-Digest: JywqjVtT9buvUf78USUjFc6PVtE=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: NEAofQuoLcRt99gbmL+/kRTDnUE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/skillW/WS10-3-4.png
+SHA1-Digest: 7LPYVct7rs1piSH3Q4ouv9XCOUw=
+
+Name: assets/skillT/LS8-3-3.png
+SHA1-Digest: bHJ1WIqQH7Kj8xpNpGiKE/Jkql8=
+
+Name: assets/skillF/FS1-2-3.png
+SHA1-Digest: iAfLE/G9IJUWeBtOt9HCUKa91E0=
+
+Name: assets/skillF/FS7-3-5.png
+SHA1-Digest: LsKaFarOx02HCcjFASbZkH4snrw=
+
+Name: assets/shapeF/f1-2-2.png
+SHA1-Digest: vANNhV+9yLRicqVuJeITXpRSexc=
+
+Name: assets/map/map_1_7.plist
+SHA1-Digest: kx9hE8cbGqDaPFZ9epWTi7Gg5T4=
+
+Name: assets/skillT/LS8-1-1.png
+SHA1-Digest: AZVk59HQruS/RddSIfnGe0yV/Z8=
+
+Name: assets/shapeF/f3-2-9.png
+SHA1-Digest: i/xBtUOOP3jxvAq3I4Qw91/WpFE=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/skillT/LS8-3-2.png
+SHA1-Digest: T2rTNaz8hUG7gAULtjyjbIsqgo4=
+
+Name: assets/shapeT/l1-3-3.png
+SHA1-Digest: fTowJ4hMO81n5MteBd7Vlhk0zB0=
+
+Name: assets/skillT/LS5-1-4.png
+SHA1-Digest: aZaeVknyhg4+a6hFERZUmAzXx10=
+
+Name: assets/shapeF/l.png
+SHA1-Digest: ujtw9AG4JxU1IfL08coNF0ouqgk=
+
+Name: assets/skillF/FS9-1-2.png
+SHA1-Digest: LSjxJ8tXBvNSzV+ozPC/gG2GGys=
+
+Name: assets/map/map_2_1.plist
+SHA1-Digest: A9NGn+1d1CXkt9eHAoedl2g9vpI=
+
+Name: assets/shapeW/w2-1-4.png
+SHA1-Digest: IaMD0GwKzTpndOhdTxG1R7xJsww=
+
+Name: assets/skillF/FS3-2-3.png
+SHA1-Digest: U5ly5MEjpJp/XOaEPZJ7JbMOcVQ=
+
+Name: assets/fonts/dot.ttf
+SHA1-Digest: WmyspHgXaHIW1XhQqCGv9a8Uw24=
+
+Name: assets/skillW/WS1-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/map/map_3_11.plist
+SHA1-Digest: oSSqtWpqS+9OGvKKsXSttmHsGno=
+
+Name: assets/shapeW/w3-2-10.png
+SHA1-Digest: WrSe8dYxxoTRKhyMg/SEEgU7SqY=
+
+Name: assets/skillF/FS5-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillF/FS10-4-5.png
+SHA1-Digest: 1rJI6zOd2NID8+pX09KSqc3uY7Q=
+
+Name: assets/shapeT/l1-2-4.png
+SHA1-Digest: pKBEvmZj4AjBDXuts1+IgIoktjY=
+
+Name: assets/skillF/FS2-2-2.png
+SHA1-Digest: fSfCq6BG8S96IqdPmne1Cwf8I3c=
+
+Name: assets/shapeW/w1-1-8.png
+SHA1-Digest: 1ZGRrARCMCNQcyH5ykUQRFX6NQk=
+
+Name: assets/skillT/LS3-3-5.png
+SHA1-Digest: 5BQJ2SQlkdfkmj5Ug+52N2+pvKY=
+
+Name: assets/map/map_3_6.plist
+SHA1-Digest: oXLUptEP7GT6J+j+C7mV1CUUWpM=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: D3OTzMV535uT6sXCK160AaIEUdI=
+
+Name: assets/skillW/WS2-3-2.png
+SHA1-Digest: VcEtL09ZKnZHdlfB3H1VEm5zP8E=
+
+Name: assets/skillW/WS6-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillT/LS5-3-3.png
+SHA1-Digest: uy6fouCH3K9qqrWQIVR4k/WVSiM=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: qaK4e1gDhaSXVr673Ke38Qdp/V4=
+
+Name: assets/skillT/LS9-2-2.png
+SHA1-Digest: PtNBGx3w510qg6AkDqGKCyZT38U=
+
+Name: assets/shapeW/w3-2-5.png
+SHA1-Digest: d1M30gjxdhQUx3Ripw68MirztN4=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1PCeD4X7eVLdr2+EB4poVTq1PZw=
+
+Name: assets/skillF/FS4-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillF/FS4-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillF/FS6-4-3.png
+SHA1-Digest: QOeg/WxqBwNUOm6ayMZQHGjEIjk=
+
+Name: assets/load_bar.png
+SHA1-Digest: ZH0M6iDV9cTNHYv6O0VtG1UhbE0=
+
+Name: assets/skillW/WS5-2-5.png
+SHA1-Digest: 0I/XWnpL/ga8YlHf1Bflb4ewUVA=
+
+Name: assets/shapeW/w1-2-8.png
+SHA1-Digest: uQ9TyKE+kfMNGx0AVBfuiV6Phgs=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: KbZYGoXtXgg5EkRwbcZq/x/ITXE=
+
+Name: assets/shapeT/l2-1-7.png
+SHA1-Digest: VVr5iUJsCIEJfKB2ragGk0Q9cEA=
+
+Name: assets/skillT/LS10-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/skillF/FS6-1-4.png
+SHA1-Digest: PPs3MkEEhtu8naRD5fh5gE/MRvE=
+
+Name: assets/skillT/LS10-3-3.png
+SHA1-Digest: 3tYrF7EcyAjncB9pYHWCBce7R4I=
+
+Name: assets/skillW/WS5-3-4.png
+SHA1-Digest: QskWMC0VD9TeEYVK7IBBBMKqQqM=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: dYDfYdQeVCs4/1WeSohObo/Y42U=
+
+Name: assets/shapeF/f2-2-7.png
+SHA1-Digest: +XH+ORn4R8QqRv4hj0RnADdHcl0=
+
+Name: assets/map/map_3_7.plist
+SHA1-Digest: HcyNaQAFewE28HJpHanL4bbKJlQ=
+
+Name: assets/skillT/LS9-2-4.png
+SHA1-Digest: 0MknhAboPSyadudLvhuAneRnCPA=
+
+Name: assets/skillF/FS5-1-4.png
+SHA1-Digest: 0pQ2fMPxSuFdx9Prh+Ciz1ECX9M=
+
+Name: assets/skillW/WS3-3-5.png
+SHA1-Digest: EDmVoeHHydKRWWpUJlfl5ggVCLc=
+
+Name: assets/shapeF/f1-1-6.png
+SHA1-Digest: nG0CbmejCYNqkTwsoCixmMS7pUU=
+
+Name: assets/map/map_5_9.plist
+SHA1-Digest: 73f0S74cKNr2/A+TEcEhCxnWnz8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_focus_light
+ .9.png
+SHA1-Digest: r5BaJcm8YInShTypnaU/gf6UKTQ=
+
+Name: assets/skillF/FS2-3-1.png
+SHA1-Digest: vc/EJvxterpDD/MleNInwgec3Ko=
+
+Name: assets/map/map_3_1.plist
+SHA1-Digest: UXRoMKE+bgcMraOOEk8EWYGPeU8=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: assets/stackSkill3.png
+SHA1-Digest: Ee7G9MTtU0O7j6DgWfKTw54Txsc=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: UXCDxpOg7UXbnFoDNGrU88J4zC4=
+
+Name: assets/shapeT/l2-2-1.png
+SHA1-Digest: 3uD55kl8/pIQCrUaz8i4i/8UCgs=
+
+Name: assets/map/map_8_21.plist
+SHA1-Digest: O1ywm7TyKD2HHfaR5dAGCPVYJag=
+
+Name: assets/shapeW/w3-1-1.png
+SHA1-Digest: TO4tXhkyhhyGPDHtOrSz/guWmL8=
+
+Name: assets/skillW/WS6-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/skillF/FS5-4-5.png
+SHA1-Digest: sf1d09hwEI4vt535oQ0fdYn+ppg=
+
+Name: assets/obacksa.png
+SHA1-Digest: m2aec9bBHiLjdTe12pDyF0Sq/yk=
+
+Name: assets/skillT/LS10-4-1.png
+SHA1-Digest: bdSTOUu+DucjmgS6WDfEY5QqjPg=
+
+Name: assets/skillW/WS10-4-2.png
+SHA1-Digest: Mfv1F8nJG9TZVsKe0s34mCuG31M=
+
+Name: assets/map/map_3_5.plist
+SHA1-Digest: aR7j4F3RpQpWen/4RzhE4DfGBZw=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: alk9qCjovoayqfBmhKb0OSABN44=
+
+Name: assets/skillW/WS7-3-4.png
+SHA1-Digest: couiPDT1MO+3g+DaoOSAr/E+SUs=
+
+Name: assets/skillT/LS7-3-4.png
+SHA1-Digest: HwUVxDUcffLx7CFKIFu5xJ3p3MM=
+
+Name: assets/map/map_6_2.plist
+SHA1-Digest: ZtpFnosfPFitWFRnZ3tZadnMZIs=
+
+Name: assets/map/map_7_13.plist
+SHA1-Digest: VXD+5Ua3JqqrAGIB/buixRqCs80=
+
+Name: assets/skillF/FS10-1-1.png
+SHA1-Digest: n9N39N8Y2nvWIuV7Uobo/P/ROWE=
+
+Name: assets/skillF/FS10-4-2.png
+SHA1-Digest: mFr3aAq4cCjZQpVTG6655iWeEtI=
+
+Name: assets/skillW/WS1-3-1.png
+SHA1-Digest: vAJFc/xxofTw+ZI5n4DBWKGigUc=
+
+Name: assets/skillW/WS10-2-4.png
+SHA1-Digest: jKpT1B+0KNZMav88evi0nhFDHiY=
+
+Name: assets/backButton.png
+SHA1-Digest: HDRsdwW+TPlkizw9WY1mhq61IbQ=
+
+Name: assets/skillF/FS3-3-5.png
+SHA1-Digest: G7GhNuyojrT3CWfc5cVDLDjmsbg=
+
+Name: assets/skillF/FS5-4-1.png
+SHA1-Digest: 0+zrjR4jruirSOyE6dWUhP4B0Cw=
+
+Name: assets/skillW/WS8-4-3.png
+SHA1-Digest: birVF3zFaLBKrcZk/baAJdj9/vE=
+
+Name: assets/skillT/LS3-4-1.png
+SHA1-Digest: QJsDOkCJWqp+uJTZRI5Fc0zN5sM=
+
+Name: assets/skillW/WS3-4-2.png
+SHA1-Digest: 5V7feAZ2yZ6fZtO6nZ234CigiHE=
+
+Name: assets/skillT/LS9-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/skillF/FS1-4-1.png
+SHA1-Digest: FNYY4FIQzSe6jkAvGJwzZTOvHIM=
+
+Name: assets/skillF/FS4-4-3.png
+SHA1-Digest: kDoWKQEO1C8Mh1ywlLD6RQ2pRuI=
+
+Name: assets/skillT/LS10-1-4.png
+SHA1-Digest: wsm71HKWfYdrS3Re475mfF+Wj58=
+
+Name: assets/shapeW/w1-2-10.png
+SHA1-Digest: DADfg6vxuLeuj7wwSABntUz6EOQ=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: CG3lDkcP/GHQTYwc/aOmdEm1/oA=
+
+Name: assets/shapeF/f3-1-5.png
+SHA1-Digest: 0udQgQ7pGYpFgzonvkY0P+bVN8U=
+
+Name: assets/map/map_5_15.plist
+SHA1-Digest: e8gszOrdLAueJHkDqIDCCJvdc0w=
+
+Name: assets/skillF/FS7-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_focus_dar
+ k.9.png
+SHA1-Digest: wv2dVvaU2YokwLE9rPy/vR71x8o=
+
+Name: assets/skillW/WS2-3-3.png
+SHA1-Digest: /XWolDisK7ltTp64uiIfZbGGLkA=
+
+Name: assets/skillT/LS5-4-3.png
+SHA1-Digest: Ze8MBX5LfGZhloiZwryWUpKTvLI=
+
+Name: assets/setting.png
+SHA1-Digest: k/nG+g++7vx8dCndyOwvJMobFdM=
+
+Name: assets/skillW/WS1-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/shapeW/w2-1-2.png
+SHA1-Digest: /qSTHcifXjnouLVRWAolHhB+y10=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: Ru9c8TQxCDEETWL8Hyuw8oLR62o=
+
+Name: assets/map/map_7_1.plist
+SHA1-Digest: pC13o1jwenXuBBo1W5NVx14ePZU=
+
+Name: assets/skillF/FS1-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS2-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/map/map_9_8.plist
+SHA1-Digest: j3U/F2sG+uA8icT7W4lC6INZzuU=
+
+Name: assets/skillW/WS8-3-1.png
+SHA1-Digest: sM5CMOewFHvCxpUVdScZwV23J1M=
+
+Name: assets/map/map_6_9.plist
+SHA1-Digest: LvrsZhBKP1vGgzxnGO6Olk64tDY=
+
+Name: assets/shapeF/f3-3-5.png
+SHA1-Digest: SFICo17DOk2KM74eOjjzkbxr3ok=
+
+Name: assets/shapeT/l3-3-2.png
+SHA1-Digest: RYKYBuhaEg+D8wJyQK03LP7RTEU=
+
+Name: assets/skillT/LS1-3-2.png
+SHA1-Digest: 1xUlX0MpWes3K6dhgXFoqMJbtsU=
+
+Name: assets/skillF/FS8-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS9-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/map/map_8_9.plist
+SHA1-Digest: YW5QN5ESs4U/ZwY79gur+AopyTc=
+
+Name: assets/skillT/LS10-2-1.png
+SHA1-Digest: WRpOTAb6fWq+kw2Ps6ikcjrtvn0=
+
+Name: assets/skillF/FS6-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/shapeW/l.png
+SHA1-Digest: cc5TiZjkT0rDjtwi0tPHD4iMAKc=
+
+Name: assets/skillT/LS1-3-5.png
+SHA1-Digest: 2NBToPagWBO25d3gjTsjE9lthvA=
+
+Name: assets/skillW/WS3-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillT/LS2-1-2.png
+SHA1-Digest: Pr7DU8xCp7f7rvXqU/cB+8wUmMA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: +gmuhIqM5fxBv3rZoih1jHA7u0A=
+
+Name: assets/skillF/FS7-3-2.png
+SHA1-Digest: DLHuQ9SF8LXObCdeyC0lwxkK1MA=
+
+Name: assets/skillF/FS6-3-2.png
+SHA1-Digest: 1Bei5M1FeNmua/M+Evx+rV2XKro=
+
+Name: assets/skillW/WS8-3-3.png
+SHA1-Digest: 937mi2vlPCwprs3Hh6ueEXYOPoI=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 3P2Q/ZAE5zdB3clrfhpWK44ry8k=
+
+Name: assets/skillW/WS5-3-5.png
+SHA1-Digest: JTbsFL8Ah1RcNQH8S5l1d3qOU8c=
+
+Name: assets/skillW/WS7-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/skillW/WS5-2-2.png
+SHA1-Digest: QVmH29J7D0Rm/zgbalQp5Zc9i60=
+
+Name: assets/shapeW/w3-1-8.png
+SHA1-Digest: mnP5rn8U99j3Tf452GyEOvjtBHQ=
+
+Name: assets/map/map_5_10.plist
+SHA1-Digest: r6hxQG5GyfITOH640BAVZMkDIAo=
+
+Name: assets/shapeF/f3-3-8.png
+SHA1-Digest: rBvYEk/kGrtf5qGUmJ6twvxxNFc=
+
+Name: assets/skillF/FS9-4-5.png
+SHA1-Digest: 8H/p9NDT6bc+bavo3Wq0JeQiTBU=
+
+Name: assets/skillF/FS7-2-1.png
+SHA1-Digest: kdhx3jRvDr5Ae0WIAdsvfYdCsBg=
+
+Name: assets/shapeW/w3-3-2.png
+SHA1-Digest: 7K1OeSLATBpqPPeyrvYpk0kJBHE=
+
+Name: assets/skillT/LS2-2-4.png
+SHA1-Digest: JKcVttry15AbukNH0qilumhcVUY=
+
+Name: assets/skillF/FS5-4-2.png
+SHA1-Digest: FespAAp+J0S8n/zGKAUWrmqNYDQ=
+
+Name: assets/shapeF/f1-3-4.png
+SHA1-Digest: eQ+ZNd0sADGgrfHiQ92151XP6W0=
+
+Name: assets/skillF/FS9-4-2.png
+SHA1-Digest: 4r+EfiBwOTFwgBD2+JXDRXC3ph4=
+
+Name: res/drawable-hdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: MDqgTVve/ECWdg1RF1Xo/IJ49zo=
+
+Name: assets/shapeW/w1-3-4.png
+SHA1-Digest: FUQygCooB3Rhzk1dQVUXEezX5/0=
+
+Name: assets/skillT/LS9-3-4.png
+SHA1-Digest: +IGNNOm4Jhj5a7TodCpsZFDCXvg=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_dark.
+ 9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/map/map_6_17.plist
+SHA1-Digest: U1kQcpsf158omjnZ0KjUFZw+aIk=
+
+Name: assets/skillF/FS8-2-2.png
+SHA1-Digest: xPA1hN983Kpcur+vi7eAd8HwLIY=
+
+Name: assets/skillW/WS5-4-5.png
+SHA1-Digest: MQX7PC7b/jDghegEfu3Ka/BgBc4=
+
+Name: assets/skillT/LS7-4-1.png
+SHA1-Digest: dgwF2/F2v1fC1l1ZuSCAbEs7VLw=
+
+Name: assets/mapImages/bottom.png
+SHA1-Digest: KjXHX61fV9XsY6RG8T+TxcfeWKQ=
+
+Name: assets/tutorial2.png
+SHA1-Digest: J1trqiZpjQFJ6A3kA38iZQvzUns=
+
+Name: assets/talk/eOld.png
+SHA1-Digest: 7y8hPOErqAp6z8P/Ulzz98eNhOU=
+
+Name: assets/skillF/FS9-3-1.png
+SHA1-Digest: 36+1F5ZSMrn53c63jMWq6jXzPkI=
+
+Name: assets/map/map_8_6.plist
+SHA1-Digest: EkUxYGHLR/NhiBzBf4ogaL650IE=
+
+Name: assets/shapeW/w2-1-6.png
+SHA1-Digest: 4+qoTfPHd46WKnwXrJB/dKHcojI=
+
+Name: assets/shapeT/l3-1-8.png
+SHA1-Digest: 9Htd2DzISJM+6ONs8z3jG5UZ+80=
+
+Name: assets/skillW/WS5-3-1.png
+SHA1-Digest: JTbsFL8Ah1RcNQH8S5l1d3qOU8c=
+
+Name: assets/skillW/WS8-4-2.png
+SHA1-Digest: FnoTEA6cBqlih7q4F3vQQ9tAAC0=
+
+Name: assets/moveStack.png
+SHA1-Digest: gWbB387ADBTH9ocQGX3hKR7upM0=
+
+Name: assets/skillF/FS8-3-1.png
+SHA1-Digest: r1gkjAkKnaG1fb98MUeCJvbNy9A=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: 9vVBmxBWC90ezfBxdMijJFAEVDU=
+
+Name: assets/skillF/FS3-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/shapeT/l2-2-10.png
+SHA1-Digest: JNe58xmUiON3nWJujmPKQ/XJeRI=
+
+Name: assets/skillW/WS1-4-2.png
+SHA1-Digest: osUqF2K+UFLT7/EUV14fo+jI9v8=
+
+Name: assets/skillF/FS7-4-3.png
+SHA1-Digest: e/0rZ5YtYVfEqTnkccowAv1qk5M=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: LewhoID0LjtBYVPp7OCVxcpi4Ls=
+
+Name: assets/shapeT/l2-3-6.png
+SHA1-Digest: z3cRwIpwjLKfUrMR8DQGCeBvV4s=
+
+Name: assets/shapeT/l1-1-5.png
+SHA1-Digest: JCHTWK4QzyTZro3o1SRk1PAFbCo=
+
+Name: assets/shapeT/l1-2-5.png
+SHA1-Digest: 6ZBFxeShDNbTr+Ln5kdoLdu35z4=
+
+Name: assets/shapeF/f3-2-4.png
+SHA1-Digest: R75rj9JHOl0aDmndVHTT05o05yI=
+
+Name: assets/skillF/FS2-4-5.png
+SHA1-Digest: /gy9SHT5P+eAsQxjB4P8D7xYiAo=
+
+Name: assets/skillW/WS6-2-3.png
+SHA1-Digest: MLwhCCaZYpfpEr3x+UIgnQTBAu8=
+
+Name: assets/skillT/LS1-3-1.png
+SHA1-Digest: 0VREGAp86y9Fb6K4JCt3/CNN7gc=
+
+Name: assets/shapeT/l2-1-9.png
+SHA1-Digest: ZQkG/dE5tCm1brfKvSteQKRoMuE=
+
+Name: assets/shapeF/f1-2-1.png
+SHA1-Digest: QphSrWk54VrjmbX7pRaXjJwsvS8=
+
+Name: assets/skillF/FS9-3-5.png
+SHA1-Digest: /rnujk6W3YvSLv6f+IeI7kaQ4vA=
+
+Name: assets/skillT/LS2-2-2.png
+SHA1-Digest: aZoJz+lk3muAf1dHAUyHVZYupms=
+
+Name: assets/right.png
+SHA1-Digest: 0cGql5jARxv7eyAc/2iWXLN6mVI=
+
+Name: assets/shapeF/f2-2-3.png
+SHA1-Digest: W2dnuqvqIBPGBI9rexNhryAMi2o=
+
+Name: assets/skillW/WS5-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillF/FS10-3-5.png
+SHA1-Digest: DydLmDTaDVypTva71Gz33bdULSI=
+
+Name: assets/skillW/WS8-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillW/WS3-3-1.png
+SHA1-Digest: PzJeIG1yR//GALQ+ewYnXUKc264=
+
+Name: assets/skillW/WS5-3-3.png
+SHA1-Digest: TBGRHzhE7R/cPPWCOUkNLERZFIY=
+
+Name: assets/skillT/LS9-4-2.png
+SHA1-Digest: cZ4UC79cYx5UV3voaL+unolCV3E=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: QITJ8CHL6O6NtaNSW5zIXy1Z3PY=
+
+Name: assets/skillT/LS6-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/skillW/WS7-3-3.png
+SHA1-Digest: 8/SUGgA5wD32LWhCWmTlLL0AD6Q=
+
+Name: assets/skillW/WS9-2-4.png
+SHA1-Digest: nZvnQeYgCktV9sH9tF/Z35TR9RU=
+
+Name: assets/hp.png
+SHA1-Digest: uxdBpV3t4qwnv10MquA5d8lvfSA=
+
+Name: assets/skillW/WS6-4-5.png
+SHA1-Digest: m+XU5SEAz5RQzTyxCHc0qPuB1Yc=
+
+Name: assets/shapeW/w3-2-7.png
+SHA1-Digest: 0RLk4kw+3kDZz5/9psgxICXCXyI=
+
+Name: assets/shapeW/w2-3-6.png
+SHA1-Digest: k2eWZqtwhI2fjRKrapSNVTFvppo=
+
+Name: assets/shapeW/w1-1-4.png
+SHA1-Digest: bJX3i3MEF/Kh/PmsIiCiO8d/52c=
+
+Name: assets/skillW/WS3-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/map/map_2_5.plist
+SHA1-Digest: 2juday56nz+c5zXrKfdVzrMzxGk=
+
+Name: assets/skillW/WS5-2-4.png
+SHA1-Digest: QVmH29J7D0Rm/zgbalQp5Zc9i60=
+
+Name: assets/shapeT/l1-2-8.png
+SHA1-Digest: 8ljwpJJIY7UDwRmOfRlG5IPpnig=
+
+Name: assets/shapeW/w2-1-3.png
+SHA1-Digest: PdpxCeao4lFAe+GmCPn2iDxCZEA=
+
+Name: assets/playerBar.png
+SHA1-Digest: JMD2eSioiUuPDKd/575EoeOU/H8=
+
+Name: assets/skillF/FS1-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillW/WS10-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillF/FS1-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/shapeF/f2-3-10.png
+SHA1-Digest: GxDEMXnOM6wUZ/TcO4YyhRnyRaI=
+
+Name: assets/skillF/FS6-2-3.png
+SHA1-Digest: Nmnexg2mSz12PfQyZQ/AhD8iH4A=
+
+Name: assets/shapeW/w2-1-10.png
+SHA1-Digest: e6y6g9hN/oGy6OaOP7Soh72Ux+U=
+
+Name: assets/talk/chiwoo.png
+SHA1-Digest: 2g5Nm4azlDPhl5PfDwKGMMpHP80=
+
+Name: assets/skillT/LS2-3-4.png
+SHA1-Digest: VHvrnazVGTkHNmSQgwPfS6clvEw=
+
+Name: assets/skillT/LS10-3-5.png
+SHA1-Digest: R+8bITGFdkrZRdiRtBEW9dFcby4=
+
+Name: assets/skillT/LS3-2-2.png
+SHA1-Digest: uu+NKYisnrX77pbtAlgtKrs4aN4=
+
+Name: assets/skillW/WS9-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/shapeW/w2-2-10.png
+SHA1-Digest: JEpjauFZcYIkHBJHLdISOs5WFhQ=
+
+Name: assets/skillF/FS9-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/field/field03.png
+SHA1-Digest: Sjo7BJQQJ0Pj9hP4QG62IfXSFQ8=
+
+Name: assets/skillW/WS10-4-5.png
+SHA1-Digest: LwcdlxOB22elt0ySWW3zQVjxwUs=
+
+Name: assets/shapeT/l1-2-2.png
+SHA1-Digest: keQbK20VhUiTyz1yb4idw6mF66I=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_focus_light
+ .9.png
+SHA1-Digest: CLs5FbiMwb7vIKZyvZ2iE6odMZs=
+
+Name: assets/map/map_9_5.plist
+SHA1-Digest: rLqgqUCdeNluiQdG4MXroONPtx4=
+
+Name: assets/skillW/WS6-2-4.png
+SHA1-Digest: 2d5dOJ8N7RXDi5ACNiDlKTyK0qQ=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +qORW9oS7s5/oY5Z1R4KkQ+aJ1g=
+
+Name: assets/shapeW/w3-1-5.png
+SHA1-Digest: iPB8a41f9UHzqTtIE6ohtL8tpYo=
+
+Name: assets/skillT/LS3-3-4.png
+SHA1-Digest: Ozqf+vXy9bLYtx6gZ39ari2d1p8=
+
+Name: assets/skillW/WS4-3-1.png
+SHA1-Digest: 8PZuDP0eTzTFZJBiGEi5BGlcFDc=
+
+Name: assets/skillF/FS4-2-1.png
+SHA1-Digest: ZqM5jvNtvrEkFzLlXWSxKlmBZcU=
+
+Name: assets/skillW/WS6-3-1.png
+SHA1-Digest: ONXe9d0qKWQ571Jl3AQyNfXlYaI=
+
+Name: assets/map/map_2_8.plist
+SHA1-Digest: fZ4GFSm9tY5QBBgBAv+z5HFOafg=
+
+Name: assets/shapeW/w3-2-9.png
+SHA1-Digest: 5DQwED+ch7ZFEFOA1MfiTHA6WNI=
+
+Name: assets/map/map_6_15.plist
+SHA1-Digest: zOLQWTpVpU/Kb8iwuvfCV2ItyKk=
+
+Name: assets/skillT/LS5-4-1.png
+SHA1-Digest: VQpl1yTjhXmxodgRJy4V/OkKRJs=
+
+Name: assets/skillT/LS6-4-1.png
+SHA1-Digest: Ew4eiu1KIgrsW9Q/xPAqzvGJKC4=
+
+Name: assets/skillT/LS3-4-2.png
+SHA1-Digest: 8nRWwMpXDPguEIDB5y8Y5DnMpsw=
+
+Name: assets/skillF/FS10-3-1.png
+SHA1-Digest: i0/4B5NU2MapK+jd9cMR4T/r9U8=
+
+Name: assets/skillW/WS6-2-2.png
+SHA1-Digest: 2d5dOJ8N7RXDi5ACNiDlKTyK0qQ=
+
+Name: assets/map/map_7_14.plist
+SHA1-Digest: PRd15P7UsIMoG8HZY49+EU3ex6w=
+
+Name: assets/skillT/LS5-2-3.png
+SHA1-Digest: 4yg18ziWqGiGTsFyCoAoFGMkgHg=
+
+Name: assets/skillW/WS8-4-1.png
+SHA1-Digest: /bWrpahSHLrM0+NcjNi7qCy0AE0=
+
+Name: assets/shapeT/l1-1-3.png
+SHA1-Digest: OtrNjXfxD6MAkm/D/KNTUkiqdgU=
+
+Name: assets/skillT/LS8-4-3.png
+SHA1-Digest: i0MyIGsVFbLPPwZawupq1Im53nY=
+
+Name: assets/shapeT/l3-2-5.png
+SHA1-Digest: WRXi5AmWivNIWAXuTgQZpzAowsU=
+
+Name: assets/skillF/FS9-2-1.png
+SHA1-Digest: dkE+AsoBHEqGtwu0LSxYcUspWcU=
+
+Name: assets/skillT/LS4-2-5.png
+SHA1-Digest: aGTRlViR8GPRoXf2FiQSHpghGrM=
+
+Name: assets/skillW/WS4-3-4.png
+SHA1-Digest: vSjIDHgzxFYFkGl3s7gt/YdTXP8=
+
+Name: assets/house.png
+SHA1-Digest: kBqWq1SXEmW1ap3F0iofRFuMc8o=
+
+Name: assets/skillF/FS3-3-2.png
+SHA1-Digest: Cd8DVGDmPJI9AgH7RnrUEkuvrY4=
+
+Name: assets/map/map_3_12.plist
+SHA1-Digest: 9Q8qBqWWvA1Uh3BWHzYBgo2mj5I=
+
+Name: assets/shapeF/f1-2-9.png
+SHA1-Digest: ZOYAwT85AwDKa4OzdTZbBZHIbjc=
+
+Name: assets/shapeT/l2-3-5.png
+SHA1-Digest: GLwWlK1ypP7spYfqMTRI7CDF88Y=
+
+Name: assets/skillF/FS10-2-4.png
+SHA1-Digest: M8CHIkGnlX+AOEPrEzan2JAAW7Y=
+
+Name: assets/skillF/FS8-3-5.png
+SHA1-Digest: 8meskCe3/2+aiyS+kGtV7/o0hyU=
+
+Name: assets/shapeT/l3-3-8.png
+SHA1-Digest: uYW2tziviCCJtNKPnTmONht9zrM=
+
+Name: assets/skillT/LS3-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillF/FS4-3-1.png
+SHA1-Digest: jUiMmZ5Tlgh6/nilS3GhgNirnKE=
+
+Name: assets/skillT/LS1-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillT/LS6-2-1.png
+SHA1-Digest: lmw2j69Iw54l8zOLPXI55O5BqCM=
+
+Name: assets/map/map_6_19.plist
+SHA1-Digest: 0reTYhQPakAk4oFjxmhe7nzfwME=
+
+Name: assets/shapeF/f1-3-1.png
+SHA1-Digest: p+SLVP4xvQRRW89rdM1KP3+qai0=
+
+Name: assets/shapeT/l2-1-8.png
+SHA1-Digest: sZO7Sd9vDedG5RzYtViLRuHLr+0=
+
+Name: assets/mapImages/bird_1_3.png
+SHA1-Digest: kwPkQBmJUGnkVty3wzJ2Spjzkt4=
+
+Name: assets/skillT/LS7-2-2.png
+SHA1-Digest: wLg84DGshK3zbhERQDt5siOga9w=
+
+Name: AndroidManifest.xml
+SHA1-Digest: PdjKQ/TCK4D1JIj51Zsu2NdY3ww=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: foZq1rlcIvqfISu8he0POsnEnkQ=
+
+Name: assets/skillT/LS9-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS6-2-3.png
+SHA1-Digest: fX4fYfgZId+NqoFndgq1G4HS2vE=
+
+Name: assets/skillT/LS5-3-4.png
+SHA1-Digest: uqIHTbMp3ygca6xeUmiQv41njXk=
+
+Name: assets/shapeT/l1-3-7.png
+SHA1-Digest: 3m9cAOoWb/K1Dh2ivTsQT+l5ziY=
+
+Name: assets/skillF/FS4-4-1.png
+SHA1-Digest: 8w6mlGjioUjaEZgtc+DWcrQPfWs=
+
+Name: assets/skillT/LS3-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/minimapIcon.png
+SHA1-Digest: 1azwMdmmvYEItdyWahExPmhzeL4=
+
+Name: assets/map/map_8_27.plist
+SHA1-Digest: QII/u1PhL4Jn59o2E8Eerqf18Mo=
+
+Name: assets/map/map_1_6.plist
+SHA1-Digest: z/iP7tGfT2ycp+5MtOVExH+Ktjo=
+
+Name: assets/skillT/LS6-2-2.png
+SHA1-Digest: Avfjb0cVda58E9o/7foTxHyByAg=
+
+Name: assets/shapeF/f1-1-4.png
+SHA1-Digest: sezm2ZK98oIxayOZ98+D1XZJR/Y=
+
+Name: assets/shapeW/w3-2-1.png
+SHA1-Digest: vplvgwppkaGHZbWz2XkHtJl/q1A=
+
+Name: assets/skillW/WS2-2-4.png
+SHA1-Digest: ldxWNdJSGggOZAzw5WCYWJjgOmU=
+
+Name: assets/mapImages/right.png
+SHA1-Digest: ANLecbzPoYTJHu7LMhn2+f0ZlUI=
+
+Name: assets/sound/button.wav
+SHA1-Digest: /VB1Q4RJFsZ8dflwCE8aayHKkj0=
+
+Name: assets/shapeW/w1-1-5.png
+SHA1-Digest: S95VdtH+9wd19UBaThG/rGGAnoo=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: 3WOChYu3Ms2kyEHXijAnPBxAgRA=
+
+Name: assets/skillW/WS8-4-5.png
+SHA1-Digest: 0866Tea7Z76+OpQxcWNcva8rRiE=
+
+Name: assets/skillW/WS4-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/shapeW/w3-3-7.png
+SHA1-Digest: /XpZjd7xADysWt8MH5u8aPfhkPU=
+
+Name: assets/skillF/FS5-3-5.png
+SHA1-Digest: X+/xqCLG6S7TSNLxT/z2hUZmEeA=
+
+Name: assets/map/map_8_28.plist
+SHA1-Digest: zRfU1de5GYiBfmxfraqp1vyWCuc=
+
+Name: classes.dex
+SHA1-Digest: i0rsEf1d3h8pPhXRZQ19vscalzA=
+
+Name: assets/skillF/FS10-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillF/FS10-2-2.png
+SHA1-Digest: E0xftBEzd+/HfJgXLpHvmCDzNxI=
+
+Name: assets/map/map_8_23.plist
+SHA1-Digest: Bh3Yo/DsPYG6k8SXjzGsH0hA2wk=
+
+Name: assets/field/fieldSp.png
+SHA1-Digest: UjehRnDkRJIGJELoq4RYW5k9Bcs=
+
+Name: assets/talk/miho.png
+SHA1-Digest: J6t+lmSyRjkD5RlI1X9E5p5wOHI=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: i1ZTqep+pgKdIhB18Xwu3c7KrFI=
+
+Name: assets/skillW/WS6-4-2.png
+SHA1-Digest: +uR9RPup035tJyNW/8o1i9xJsNY=
+
+Name: assets/map/map_7_5.plist
+SHA1-Digest: 5WubPggwzclvj9u0ZBLJUm36s1M=
+
+Name: assets/skillF/FS8-3-2.png
+SHA1-Digest: rmtlI6iT0q3FHrlt4bpwesVXONo=
+
+Name: assets/shapeW/w2-2-5.png
+SHA1-Digest: p3mgByHA2+ikpayZ8nVf69gwKIM=
+
+Name: assets/map/map_8_32.plist
+SHA1-Digest: X7vU6pceuacvHw5HhuwxtsL10fw=
+
+Name: assets/skillF/FS1-3-3.png
+SHA1-Digest: 8/jRlFRsRZqupP9fiwv8AFNoTfA=
+
+Name: assets/map/map_4_2.plist
+SHA1-Digest: kOVeA/q6HzgISxgZEcKhqnLph8I=
+
+Name: assets/shapeT/l2-2-8.png
+SHA1-Digest: KPeEyP/NzDbqQ25IE8kyI7OgJ18=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/shapeW/w2-1-5.png
+SHA1-Digest: vhu7IblunkPa55CJ+6cMgD2QOcE=
+
+Name: assets/map/map_5_18.plist
+SHA1-Digest: DpI8yThLGw0mdYvsHXfL+ql0ygk=
+
+Name: assets/map/map_5_11.plist
+SHA1-Digest: l9IiY8x5P2C0IC/jEx/jRt25Rr8=
+
+Name: assets/skillT/LS9-3-5.png
+SHA1-Digest: auDOX2NzI+OxTGHKKqn9BzPL27Q=
+
+Name: assets/shapeT/l3-3-7.png
+SHA1-Digest: BCIXouP5FE0/sr26Si5mNzxsZFY=
+
+Name: assets/skillF/FS7-3-1.png
+SHA1-Digest: P5eiZtNPl3pHNs7C64xL01Oc8+M=
+
+Name: assets/skillT/LS7-3-5.png
+SHA1-Digest: whom/XMJ1AxoMTz4yyaja0xnBP8=
+
+Name: assets/bottom.png
+SHA1-Digest: 1lR2AWDSX/LVKBDeLdWeBQ42IOY=
+
+Name: assets/stackSkill4.png
+SHA1-Digest: 1hMzJ+faPVLvNfaOc7oFVymLpsA=
+
+Name: assets/mapImages/top.png
+SHA1-Digest: vPkFczVjYIrkeHSVsrzCGNdPsVc=
+
+Name: assets/shapeW/w3-3-4.png
+SHA1-Digest: 9njubyREvDqOTq0jm7Qram7ZKyY=
+
+Name: assets/talk/character5.png
+SHA1-Digest: qkbHp2MZW1lmOimTx+p+C33O16Q=
+
+Name: assets/skillW/WS1-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/shapeW/w2-2-9.png
+SHA1-Digest: FQPFX9Qxhmu4qV+A2ZAGGGalfCI=
+
+Name: assets/shapeT/l3-1-6.png
+SHA1-Digest: Q6EROFa3TbxVMeupfjenfaIS+kQ=
+
+Name: assets/skillF/FS8-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/stackSkill1.png
+SHA1-Digest: Gt1b4qG8hcFCJYTWTLbJ+Ygkbc8=
+
+Name: assets/shapeF/f3-2-8.png
+SHA1-Digest: lAMm7MN//sPogfb+GamF8XAPcBY=
+
+Name: assets/skillW/WS4-3-2.png
+SHA1-Digest: SIObViaU4xsta1poT6e5mrw3YeE=
+
+Name: assets/skillT/LS6-4-2.png
+SHA1-Digest: TZBnCS5+xagBbV4Hln2QHxZm4kM=
+
+Name: assets/shapeT/l1-2-10.png
+SHA1-Digest: g4JZC9BrPPAGIEeRBrKbYvSDHVo=
+
+Name: assets/map/map_3_4.plist
+SHA1-Digest: qgK4+DO1wiJJZtK3aO6WrNXeMsM=
+
+Name: assets/skillW/WS9-2-3.png
+SHA1-Digest: T8NPYHAj3Vasxp80OCiFKYpuotM=
+
+Name: assets/skillW/WS5-2-1.png
+SHA1-Digest: 0I/XWnpL/ga8YlHf1Bflb4ewUVA=
+
+Name: assets/shapeW/w1-1-1.png
+SHA1-Digest: eR0u88ALfjsKHYsAxD4DojvchWA=
+
+Name: assets/map/map_8_7.plist
+SHA1-Digest: njvy51oE4uA1Z39BkK/h9O0MKzA=
+
+Name: assets/map/map_3_14.plist
+SHA1-Digest: XDY3eInNxyvZA43xK6lVGhyXlGs=
+
+Name: assets/skillF/FS7-4-4.png
+SHA1-Digest: lPQesiVisgFJTGW3o1Q+LH7ej5g=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: Wl0x3/PQYrRDwagaXHH4f7mABgs=
+
+Name: assets/check.png
+SHA1-Digest: TwvH2AGvMRtWM4dHKKmekplPs10=
+
+Name: assets/skillT/LS3-2-5.png
+SHA1-Digest: eW/QpXdgn9/juF+myUQk+Ttu66o=
+
+Name: assets/map/map_5_5.plist
+SHA1-Digest: LrDbFdXK3yP+YDfGatEw+coosbw=
+
+Name: assets/skillT/LS1-4-1.png
+SHA1-Digest: 2baKzFQtlOhmQFb5bbZ4rcbl+wo=
+
+Name: assets/stackTime2.png
+SHA1-Digest: U/CR7lyr+4CqeC5ABqKhqjmTo8I=
+
+Name: assets/map/map_8_16.plist
+SHA1-Digest: Wb7gwU2cIz/wnIqfKUOW6uY+VS0=
+
+Name: assets/skillT/LS1-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/shapeT/l3-1-2.png
+SHA1-Digest: +OAjU3pstn4hN1P1IviAwHcj3a0=
+
+Name: assets/skillF/FS10-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/shapeT/l3-1-5.png
+SHA1-Digest: +wOvZKtl7qR1uyzvmgC8ED46Kpo=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: pCIvTjWlEd+72lf6cxDeEv/N0Pg=
+
+Name: assets/skillW/WS4-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/map/map_3_15.plist
+SHA1-Digest: r0e8DxT4kd75cNGsjYGq4vNfMm0=
+
+Name: assets/shapeF/f1-1-8.png
+SHA1-Digest: 1XrTpWhEM71npvWYF02D2hYRYME=
+
+Name: assets/shapeT/l3-3-1.png
+SHA1-Digest: /kvVYvq3cMBLHtXIKkozMC6KfVY=
+
+Name: assets/talk/backsa.png
+SHA1-Digest: fJEjoO0sP0IgRMFulXu9nq1OsT0=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: YA4050FPgpAFuw6xQI3jFSgIwVQ=
+
+Name: assets/skillW/WS8-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS7-2-2.png
+SHA1-Digest: xdZBjREEtoh859zderGRslMNM8U=
+
+Name: assets/skillT/LS5-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS1-4-3.png
+SHA1-Digest: qreupll23p8HnFjmkiBzlckg/SQ=
+
+Name: assets/skillW/WS1-2-5.png
+SHA1-Digest: wKhCyHhsZ4LVACL9kaFyrkP9hAA=
+
+Name: assets/skillT/LS3-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/skillW/WS3-2-3.png
+SHA1-Digest: UGXwrasH4QpWJgfGqgSJuzMN7IE=
+
+Name: assets/skillF/FS10-4-1.png
+SHA1-Digest: 9y8rp1L2XF+kiDPRPsI0jcVEvPc=
+
+Name: res/drawable-xxhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: 5jta9QUYJ9k9tMHwzhYqoefVy+o=
+
+Name: assets/shapeW/w3-1-7.png
+SHA1-Digest: wTgOtsT9dhsR/pGQid4Svc2kcfs=
+
+Name: assets/shapeW/w2-2-3.png
+SHA1-Digest: OPNyo0qxERs13BBesDNSGlzL/Lc=
+
+Name: assets/shapeT/l3-1-7.png
+SHA1-Digest: m+lxcc1OLXkIWTwGwynHgsL7wxQ=
+
+Name: assets/skillW/WS4-4-4.png
+SHA1-Digest: A7gVllxuEkT6FD/I6Gr+1W0IWxU=
+
+Name: assets/shapeT/l3-2-4.png
+SHA1-Digest: JoDcc7Sycw7jxEn887ZdiRj3svs=
+
+Name: assets/skillW/WS6-3-2.png
+SHA1-Digest: UnEqiDFQ+I0BoLdYxlWquqFHcHw=
+
+Name: assets/skill4.png
+SHA1-Digest: InvaqdtQfOUS71Lgd4xmVWgORYE=
+
+Name: assets/shapeW/w3-1-10.png
+SHA1-Digest: 64Y8Z4vp2xSQl5POJf9VUWlnbAo=
+
+Name: assets/shapeF/f3-1-8.png
+SHA1-Digest: O5yJYXKCvby5dBugQmleh/h/Qaw=
+
+Name: assets/skillT/LS10-3-4.png
+SHA1-Digest: RewZOIlwniZBjSCmeCDza2pFZEg=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 0sCo4kwonCjyXdol2LjGSe4b7T8=
+
+Name: assets/skillW/WS10-2-5.png
+SHA1-Digest: MTy0v9xLKwOvNCQ7eDxHv2yYvpU=
+
+Name: assets/skillT/LS2-4-1.png
+SHA1-Digest: W0hGA8RIDcxa5w8gwkJTKQqX0Js=
+
+Name: assets/skillW/WS3-2-5.png
+SHA1-Digest: XbpAUVayXftEIK+6fckcDS7QQdg=
+
+Name: assets/skillT/LS10-4-5.png
+SHA1-Digest: /fTbYfvvrk/o8hNi1DFjriNmlAc=
+
+Name: assets/left.png
+SHA1-Digest: BCfr8WPzTl1eLoztkX+EdXZ3gh8=
+
+Name: assets/shapeW/w1-1-3.png
+SHA1-Digest: ODLkRP1pCn0frSSS116NByEFraU=
+
+Name: assets/shapeW/w2-2-1.png
+SHA1-Digest: EnMB/0KIwBVYk6aCjB/U3xrmPFQ=
+
+Name: assets/skillT/LS1-3-4.png
+SHA1-Digest: WNtb/bFg/P0uBjKUpDeKgn15AgA=
+
+Name: res/drawable-mdpi-v4/ic_plusone_small_off_client.png
+SHA1-Digest: lOwgiwPxI8R2+0EZBBOzp3VD+bg=
+
+Name: assets/skillW/WS1-3-2.png
+SHA1-Digest: XNT8JMLq0tGcy7aoCNeI7qDMjIU=
+
+Name: assets/shapeW/w2-1-7.png
+SHA1-Digest: FIFm1N1t4X+Wqf6gKV/sk/uw2Vc=
+
+Name: assets/skillT/LS3-4-4.png
+SHA1-Digest: avLrvlBgP0OsvEG4i+jTDGQ3M7E=
+
+Name: assets/shapeF/f2-3-9.png
+SHA1-Digest: sRNBLGzkEMJ48h2QOY9I4LZkaQM=
+
+Name: assets/skillF/FS9-1-1.png
+SHA1-Digest: n65D1cLzSxT633G7vdBeTNgkTIo=
+
+Name: assets/map/map_5_8.plist
+SHA1-Digest: 5FbffGUhm6NSDUq8FfoGuzSXjiw=
+
+Name: assets/battle.png
+SHA1-Digest: 14E+78so2yc7/28lwF7D1mk+V+w=
+
+Name: assets/shapeT/l1-3-9.png
+SHA1-Digest: H2A3PaPYt7htKu4HDzZrWH0GC24=
+
+Name: assets/skillT/LS8-2-2.png
+SHA1-Digest: yafVvtRw4BRUXtVkFRY8u0Q4WmM=
+
+Name: assets/skillT/LS10-2-5.png
+SHA1-Digest: z0d8jtQ67njmM65agcGLVV6G9ow=
+
+Name: assets/skillF/FS9-4-3.png
+SHA1-Digest: 27zzJqAouhsdbk5EHy8ONm+czZ0=
+
+Name: assets/shapeF/f3-1-4.png
+SHA1-Digest: Qn5/FIPJBbkIYBla/9DrrlQ9lY8=
+
+Name: assets/itemShop.png
+SHA1-Digest: ROm4rck58iCbCfzB2lvEMu+wCEc=
+
+Name: res/drawable-hdpi-v4/powered_by_google_dark.png
+SHA1-Digest: I/G/mu9XuPJTzwp/WdZLjQ6xTfg=
+
+Name: assets/shapeW/w2-2-6.png
+SHA1-Digest: 56VdlQchrdmsvL12plgYAY9CUjA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_light.9.p
+ ng
+SHA1-Digest: Jo7euj4LvkDv54RWdIWxYYLnMbg=
+
+Name: assets/shapeF/f1-3-9.png
+SHA1-Digest: GYZRiWyhVO4+Y1AaYH6znyR1ZNU=
+
+Name: assets/skillT/LS3-3-2.png
+SHA1-Digest: JglOFTqQdCIUBOzFAge5Bf9Glv4=
+
+Name: assets/shapeT/l1-2-1.png
+SHA1-Digest: td7tRTBpYFAV7I/uksijxst/PY4=
+
+Name: res/drawable-mdpi-v4/ic_plusone_tall_off_client.png
+SHA1-Digest: AD2aFw6TcqHuDE1AdYky7h+et9s=
+
+Name: assets/skillW/WS10-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillW/WS2-2-3.png
+SHA1-Digest: K6F/7i1DlvQe+QnwR5wuLSsAUQE=
+
+Name: assets/shapeF/f2-1-8.png
+SHA1-Digest: WBnoBmfwsNYgKj7M/won/guhpmY=
+
+Name: assets/map/map_6_5.plist
+SHA1-Digest: LRz4H7nnAQoUAl3pGw2xNxl+0gY=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: xa+o97ZNQDyD6tCp4L4gmqdoPrs=
+
+Name: assets/shapeF/f3-3-3.png
+SHA1-Digest: 2hTiYonBPf6yd/qton5v6iIC9sE=
+
+Name: assets/skillT/LS3-2-3.png
+SHA1-Digest: sQps7cNA8z9x847tl4JDLz7aQdg=
+
+Name: assets/shapeT/l2-2-5.png
+SHA1-Digest: hTJNmAp6vLe5injwH8Lc4EdPu2o=
+
+Name: assets/skillF/FS9-2-4.png
+SHA1-Digest: awkXLdyHJOYk2IK0bpwAvrX45Ic=
+
+Name: assets/shapeT/l1-3-2.png
+SHA1-Digest: ucH4Ham603kEgaMYby03cN3GpWc=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: 8t8fYpBPxPeFuWeBGdYiV/u6+vM=
+
+Name: assets/mapImages/star_3.png
+SHA1-Digest: 8MhrKCvuQzCbTNaZZCoILKuqN1U=
+
+Name: assets/map/map_2_12.plist
+SHA1-Digest: tH1qfQVbayB5dTd95NynxJCqdjI=
+
+Name: assets/fonts/NanumGothic.ttf
+SHA1-Digest: HQo6weAblj0Fricpr5ynGgtrP3c=
+
+Name: assets/mapImages/player.jpg
+SHA1-Digest: z6RfUcbg1uxfZdy2nAfqkicdDWw=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_lig
+ ht.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: assets/skillW/WS4-3-3.png
+SHA1-Digest: hgzWgPsblQ1boEBqJ4Dkh3geXF0=
+
+Name: assets/skillW/WS9-2-5.png
+SHA1-Digest: L9YkGxfU2WJF88eeWVf6brsBJ5M=
+
+Name: assets/skillF/FS6-4-5.png
+SHA1-Digest: t0Hn5UWT+0WFEc+4lQJFhapGkpM=
+
+Name: assets/shapeF/f1-2-10.png
+SHA1-Digest: y5eKA4gzb2YT8VP5kdURP+pwdUo=
+
+Name: assets/skillT/LS6-4-3.png
+SHA1-Digest: GxOYYWqdIveT3WHd1R/Spcul1/A=
+
+Name: assets/skillT/LS6-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/mapImages/load_bar.png
+SHA1-Digest: +MX0/jyh43Ver0QHTczbTHn6QNA=
+
+Name: assets/skillT/LS9-4-3.png
+SHA1-Digest: rgHuJ/p7VnVq+/J1rYr+cchNnrk=
+
+Name: assets/skillF/FS5-2-4.png
+SHA1-Digest: dB2qUUul82ZuJR3t/HECSk8E434=
+
+Name: assets/map/map_8_29.plist
+SHA1-Digest: 5b6qIWypMWcoKLMX6+EJ6HP36YM=
+
+Name: assets/skill3.png
+SHA1-Digest: OrXcYHGInqE5urze9MjHcUjsjrs=
+
+Name: assets/skillF/FS10-3-4.png
+SHA1-Digest: pphx72b+mYE0xvht9cjfRl+jj6I=
+
+Name: assets/shapeT/l3-3-5.png
+SHA1-Digest: kKl9lXRnoGRS0k6w8tGLTUynPK0=
+
+Name: assets/skillF/FS7-4-1.png
+SHA1-Digest: EoNIZ14c5KB8h9wCi2W1idEUv5k=
+
+Name: assets/shapeW/w2-3-3.png
+SHA1-Digest: mBrm666khHtltjK2cnk5XnW0yqY=
+
+Name: assets/shapeW/w1-2-5.png
+SHA1-Digest: EZP7yyM5fx4Q5Far44j4MYeJ5hM=
+
+Name: assets/skillF/FS2-4-1.png
+SHA1-Digest: l/AZIj69NcVm2kwtMGzHCVQzoq8=
+
+Name: assets/skillF/FS9-2-2.png
+SHA1-Digest: yLvchtVv5ZwYArEov5k2wcRDJdQ=
+
+Name: assets/skillF/FS6-2-5.png
+SHA1-Digest: Yiei1B5qdq1xjyRQz00xPiCXux4=
+
+Name: assets/skillW/WS2-2-5.png
+SHA1-Digest: MB0w2PtsnkGwgKorLQ9TNofbvCI=
+
+Name: assets/shapeT/l2-3-2.png
+SHA1-Digest: VpmA9p4M2gIgcPwbMVsUTzyudNo=
+
+Name: assets/skillW/WS1-2-2.png
+SHA1-Digest: xdZBjREEtoh859zderGRslMNM8U=
+
+Name: assets/portal.png
+SHA1-Digest: EWtFbULeeQdxgmUYXpRUMEobucU=
+
+Name: assets/skillW/WS7-4-4.png
+SHA1-Digest: gMZMG/V8kHbMurGCGF0p5jaCdak=
+
+Name: assets/skillW/WS10-3-1.png
+SHA1-Digest: KfupqwTW54jRNRvAd8UhgH72uHI=
+
+Name: assets/shapeF/f3-1-2.png
+SHA1-Digest: pvKQSDGW83tNhXGSlQamJQbNKD4=
+
+Name: assets/skillW/WS9-3-3.png
+SHA1-Digest: nNybFUM9v8jPsjCWf6NbsZWkWSs=
+
+Name: assets/shapeW/w2-2-8.png
+SHA1-Digest: LXYRbLr2R7iFIcU+RSsKxEE4IIA=
+
+Name: assets/skillW/WS9-4-5.png
+SHA1-Digest: e+tzowrrCus9BEFcpww9n7bOT0U=
+
+Name: assets/skillW/WS4-2-2.png
+SHA1-Digest: v1dciiBNdPNbAwM/PnT464H1fLc=
+
+Name: assets/skillT/LS7-1-4.png
+SHA1-Digest: ivWceLb7Pb5Cy7fVNgRYZy92EGI=
+
+Name: assets/map/map_8_3.plist
+SHA1-Digest: jGpkjnJqymrTpkDe+tnHuTrS9Qo=
+
+Name: assets/video.png
+SHA1-Digest: /7ZWEalhzYmeikUOcNZMmE7S6rU=
+
+Name: assets/skillF/FS3-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS1-2-4.png
+SHA1-Digest: OXrHa8hW4d09MMfusKtG8LOigo0=
+
+Name: assets/skillF/FS4-3-2.png
+SHA1-Digest: uyUqiyPylloQoanzmfrWhDWH9RY=
+
+Name: assets/shapeW/w3-2-2.png
+SHA1-Digest: msVjZLq/8RG4HsfWyHCBqkzkBD4=
+
+Name: assets/skillT/LS1-2-2.png
+SHA1-Digest: wLg84DGshK3zbhERQDt5siOga9w=
+
+Name: assets/shapeT/l1-1-1.png
+SHA1-Digest: 9huW5qt8gcg8QndN6aI6XOpBhBs=
+
+Name: assets/shapeW/w3-2-6.png
+SHA1-Digest: kaAtixX9lNSBstyGTigF0Jrzaxs=
+
+Name: assets/skillF/FS7-3-4.png
+SHA1-Digest: tWrhCnIryqcmfVPyxsWcSAo4o6o=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: qUes7E1WY2JY7Fd6HKCYNy966/o=
+
+Name: assets/skillT/LS7-1-1.png
+SHA1-Digest: y4JOkHfb6SPlA6urpVlH4s8xaLk=
+
+Name: assets/map/map_6_12.plist
+SHA1-Digest: cXAwPuO8Ba7Wf3Io0o8IiuHiNa4=
+
+Name: assets/GameDbEn
+SHA1-Digest: 3ruJDtdcjgmn0MJW1YvtOQ7xT6A=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: mMiwFXUUdTLYgymp9ymolo7j5wI=
+
+Name: assets/skillW/WS2-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: 92pHkmawW9x95wDQw6uvTZBRXkQ=
+
+Name: assets/shapeW/w2-3-9.png
+SHA1-Digest: S+k/P4qXK7nG6vO1ywWS14DAnYU=
+
+Name: assets/skillF/FS2-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillF/FS8-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: VfF1Y+3CjDiM4dG+tUnOEInJ2T8=
+
+Name: assets/playerHp.png
+SHA1-Digest: Dq+MDpkDq8RxeMot9Guit1szUvo=
+
+Name: assets/skillF/FS5-3-4.png
+SHA1-Digest: RXP8lodoEK/zEAp8P5CnXMg79ag=
+
+Name: assets/map/map_6_8.plist
+SHA1-Digest: LYxXKvIGHE00YZ9osKBvDreZUx4=
+
+Name: assets/skillT/LS4-2-3.png
+SHA1-Digest: Nx0guB41uaFs74E8fmZbixKCwNo=
+
+Name: res/drawable-mdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: HHc+sqWu5XtWgMQhN1F5cAwzeew=
+
+Name: assets/on.png
+SHA1-Digest: XOp2FV9XMo1MepU1Pa3PezAC1Gw=
+
+Name: assets/skillW/WS7-2-1.png
+SHA1-Digest: pL1YKWf2r1mat/UurKhm7nHS6No=
+
+Name: assets/mapImages/obacksa.png
+SHA1-Digest: ebJwTfdebXmlfPwtDwJJY+Pw8ag=
+
+Name: assets/skillW/WS3-2-2.png
+SHA1-Digest: A7WXTkDLeb4zBT2PUiKhfsoT25k=
+
+Name: assets/shapeT/l3-2-6.png
+SHA1-Digest: MF2pLpNRyGKsj/QnqiOteCEwRNM=
+
+Name: assets/skillW/WS9-4-4.png
+SHA1-Digest: YsWwbB3r4h9VoAFS2Q3VgE9/WYA=
+
+Name: assets/shapeF/f3-2-6.png
+SHA1-Digest: a81VWOnSc3/dTgQJOksLzik6rJ4=
+
+Name: assets/skillT/LS1-4-2.png
+SHA1-Digest: kQ3jOfqWFvnYzMav9DBcVC1oqEw=
+
+Name: assets/sound/levelup.wav
+SHA1-Digest: b1kXwhbviK2sHh1R85KUXfwv5qs=
+
+Name: assets/original_images/enemyHp.png
+SHA1-Digest: IH9GuhARz9/NpSKMZnpUKVvZ3dw=
+
+Name: assets/map/map_6_18.plist
+SHA1-Digest: ZROYJ0DmY/wO3mr44mYUbG6ANyQ=
+
+Name: assets/skillT/LS7-4-4.png
+SHA1-Digest: K1o36Ny2i6nHkfGe/bR2pythlJ0=
+
+Name: assets/skillF/FS4-1-2.png
+SHA1-Digest: MkhnpQoPFMNk9PrOXpQt1kMXWHY=
+
+Name: assets/treeMap.png
+SHA1-Digest: 3qvgkk5XD69KgagtD/+syoh/DrA=
+
+Name: assets/skillT/LS6-3-3.png
+SHA1-Digest: yl7OhfSYoX08Ty/2U+t+TkQ5pug=
+
+Name: assets/original_images/playerHp.png
+SHA1-Digest: zjm7CwrYnMyoK9IouvTwXE0k2O4=
+
+Name: assets/map/map_4_6.plist
+SHA1-Digest: 54hj5lBURX+eJfI8SC/XeHJes70=
+
+Name: assets/skillT/LS2-2-5.png
+SHA1-Digest: bnhXkltlaQEaFIhGTZBR4ID4KRY=
+
+Name: assets/skillF/FS9-3-2.png
+SHA1-Digest: PtA/1g/QL8lglOqw0tVoCLZuaC4=
+
+Name: assets/shapeF/f1-2-3.png
+SHA1-Digest: LhHAB+zlqGO828lQ6/wsy/TVTdA=
+
+Name: assets/skillT/LS1-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillF/FS10-2-1.png
+SHA1-Digest: x9Jbex7kAMadZAx4mmUAfDPLnBw=
+
+Name: assets/skillT/LS9-2-1.png
+SHA1-Digest: N/j6WtqS0RCrbKVugoON7UErZrM=
+
+Name: assets/skillT/LS5-1-1.png
+SHA1-Digest: MfMdthCNXn7KMfLdv83IfbcMvrI=
+
+Name: assets/map/map_8_14.plist
+SHA1-Digest: jhqIv5/32Y5/nRrk1nxVu0P2dkI=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: +96NH1NJOncqgaIjD9wfzefrtIw=
+
+Name: res/drawable-xhdpi-v4/common_signin_btn_text_disabled_focus_dark
+ .9.png
+SHA1-Digest: R0rCQap54Xf4ElOYS7zj9TUQB6s=
+
+Name: assets/shapeF/f3-1-10.png
+SHA1-Digest: 9ZPf6RvRdJmX095M5r0C3LUqYyQ=
+
+Name: assets/skillW/WS8-3-4.png
+SHA1-Digest: 9FIblaiDoLC+ZIAXjGGFEFK74Jo=
+
+Name: assets/shapeF/f2-1-9.png
+SHA1-Digest: QQMAtSD80RZArvClCH9vHmGWo9s=
+
+Name: assets/skillT/LS4-1-4.png
+SHA1-Digest: MOrbYkGjBbOa8rMjW5KBZm41vac=
+
+Name: res/drawable-hdpi-v4/powered_by_google_light.png
+SHA1-Digest: 1p8HkYSQc6asTjUOCQeAiFfr8oU=
+
+Name: assets/map/map_6_1.plist
+SHA1-Digest: SCzPt/XLl8EYcCTc8Qt5fsC1yR0=
+
+Name: assets/skillF/FS3-4-4.png
+SHA1-Digest: 1niyNvszyuQEnpyAVg7Q+Ojn8Pk=
+
+Name: assets/field/field01.png
+SHA1-Digest: mPKxjlusIpN1efQvhcQLTeMmGPA=
+
+Name: assets/shapeT/l1-1-9.png
+SHA1-Digest: OX+eaC1C8y7lFX9mJKmSWu2+57w=
+
+Name: assets/skillF/FS4-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/map/map_1_1.plist
+SHA1-Digest: MqdK99W5T1r1uRtVKBF2J5HraKg=
+
+Name: assets/map/map_5_17.plist
+SHA1-Digest: Xziss0lOQVdKLcKD4x4cLG8SXO8=
+
+Name: assets/skillF/FS7-2-5.png
+SHA1-Digest: Wsz1hfXIu2+XC2dw/PVgfW/9qgE=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: TduVAMfkheC2hR8JXUEumpsWhQs=
+
+Name: assets/skillW/WS6-3-5.png
+SHA1-Digest: 5SDDfGcp1i23b0Sjy7hNbbdZpPY=
+
+Name: assets/skillF/FS5-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS7-2-1.png
+SHA1-Digest: kdhx3jRvDr5Ae0WIAdsvfYdCsBg=
+
+Name: assets/skillT/LS8-4-5.png
+SHA1-Digest: SCjrIDXb7RtKvpCBvPxQZsnQwR0=
+
+Name: assets/skillT/LS4-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillF/FS4-4-2.png
+SHA1-Digest: v3mN6kt7NItdjD8HYtpc8AYMBSs=
+
+Name: assets/skillF/FS6-4-1.png
+SHA1-Digest: iEvenhxFdjLsic9JWa8ou0T4AYc=
+
+Name: assets/talk/character3.png
+SHA1-Digest: tvfgHhe0KlKoto4CDyKpgy5ElB0=
+
+Name: assets/shapeF/f1-1-2.png
+SHA1-Digest: b45pqqqGnfLReG4GAgWbTCTXRMA=
+
+Name: assets/shapeW/w1-3-10.png
+SHA1-Digest: +MMfoiC4fdyHfx0qqtOCY6jduh4=
+
+Name: assets/shapeT/l3-2-8.png
+SHA1-Digest: ysJ7SrVVb4xO7UeJDm7OxB1vBdI=
+
+Name: assets/shapeW/w1-1-9.png
+SHA1-Digest: 5+Iq3HDNI02QVHum0KwP9ygXfdo=
+
+Name: assets/map/map_6_7.plist
+SHA1-Digest: 0cp+6ne9GiKhHbzJJZkIGkdOOQ8=
+
+Name: res/drawable-hdpi-v4/ic_plusone_standard_off_client.png
+SHA1-Digest: 3M2Hwey0trjQpX8kpVoQgSeehjY=
+
+Name: assets/skillT/LS8-1-2.png
+SHA1-Digest: t1wdzA6f7vmgrJ7dIddcla3zt0w=
+
+Name: assets/skillT/LS8-2-5.png
+SHA1-Digest: I8JGWVMYNBy0kHowFw0XaYU6OM0=
+
+Name: assets/skillF/FS4-2-2.png
+SHA1-Digest: 107TtPzH7OfSppjE9otxNoMsFKo=
+
+Name: assets/shapeW/w1-1-2.png
+SHA1-Digest: EeS3krLWWARdg32iyH18QXRgXP8=
+
+Name: assets/shapeW/w2-3-4.png
+SHA1-Digest: dvJY+4ilTAOAyUOWVzoeCwFXP8g=
+
+Name: assets/shapeF/f3-1-9.png
+SHA1-Digest: EsznKgt0MtAYo+pAmshY9Mol9NI=
+
+Name: assets/shapeW/w1-3-6.png
+SHA1-Digest: 8QkisQyai9WI6cX6jn3A1CgTViI=
+
+Name: assets/mapImages/red.png
+SHA1-Digest: 7yrxMy//QBstrM4LKA8mq7fidNo=
+
+Name: assets/map/map_7_3.plist
+SHA1-Digest: 8ffCx2SjL9GDseTE5vG3cOAdzp0=
+
+Name: js/closebutton.html
+SHA1-Digest: HNKUUr65xvF43DhYePNX2XJIC0A=
+
+Name: assets/skillF/FS5-2-5.png
+SHA1-Digest: kSBW2311gPHW/1DtcX0hqHsZb1U=
+
+Name: assets/map/map_3_2.plist
+SHA1-Digest: UGZDciIydzEoIrxpn4JIviA8/5c=
+
+Name: assets/skillW/WS8-2-1.png
+SHA1-Digest: kQ2xowtV+Pn8TxcrPyMlzSj9R4g=
+
+Name: assets/skillW/WS7-4-2.png
+SHA1-Digest: LMeirLw+u2VvBCXFufIFRwZvu7s=
+
+Name: assets/shapeW/w3-2-4.png
+SHA1-Digest: RFmxN1ehBHzW/3eTNFpiZG0SvEk=
+
+Name: assets/skillT/LS5-3-2.png
+SHA1-Digest: 9wavEQeOGF8OheyugAPHeDJu8DE=
+
+Name: res/drawable-xhdpi-v4/ic_plusone_medium_off_client.png
+SHA1-Digest: pxNZ8SkEfPjyfAiSKNlW4SZk60Q=
+
+Name: assets/map/map_2_2.plist
+SHA1-Digest: rq1rU4thPA+S6WI9s7wZFRgHDi0=
+
+Name: assets/shapeW/w1-2-6.png
+SHA1-Digest: P9sXnaBucbYqipzjvGqmCdwIcRM=
+
+Name: assets/skillF/FS3-1-1.png
+SHA1-Digest: C29S709ufiVT9uTHIHAcMTIiIes=
+
+Name: assets/skillW/WS10-2-1.png
+SHA1-Digest: SoqYTvScKCsoKZsFkNq1RO7ISiA=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: 6rSm6kORk3gR7sN+Kxa8/fR2reU=
+
+Name: assets/skillW/WS4-2-5.png
+SHA1-Digest: D3xrGZS1oWYBvAQoAYmrO7sgsDQ=
+
+Name: assets/shapeF/f2-2-9.png
+SHA1-Digest: rWOidouWw3A/6qNi6714kPSQPGg=
+
+Name: assets/shapeF/f1-3-8.png
+SHA1-Digest: 3UFTjgL9ojsxh7pV1qY2eK9NxT4=
+
+Name: assets/skillT/LS3-4-3.png
+SHA1-Digest: GqxME19r6DTMDUvF9x089mUaZY8=
+
+Name: assets/shapeT/l2-3-8.png
+SHA1-Digest: z4z/73xAOdYHe2dgv0g5138sQpA=
+
+Name: assets/stackBorder.png
+SHA1-Digest: somg724c0ggBbxT6PMuO4w7/PmM=
+
+Name: assets/map/map_7_9.plist
+SHA1-Digest: ZEKu4sXEOtrxkGO5WbfEjyufZC0=
+
+Name: assets/skillT/LS8-3-1.png
+SHA1-Digest: r2CsIiE5rTUINb/3iIwWScSLcac=
+
+Name: res/drawable-mdpi-v4/powered_by_google_dark.png
+SHA1-Digest: SYwxuihJgUaoyjHCQQvZHUzSvgw=
+
+Name: assets/skillF/FS1-4-5.png
+SHA1-Digest: nm97fm9YNWWMqqTPFcI7CcXyGyY=
+
+Name: assets/sound/background.wav
+SHA1-Digest: KkNrZSf0KmYt3HBzdbgIgMseux8=
+
+Name: assets/shapeT/l1-2-6.png
+SHA1-Digest: WHNDln0FnUpXbv6RT36gYHU+ZoI=
+
+Name: assets/skillW/WS5-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/skillF/FS8-2-4.png
+SHA1-Digest: VbR+8bRgSBc6z5hzy6/txsYuRPA=
+
+Name: assets/map/map_8_17.plist
+SHA1-Digest: ia12KZxT22KdshyIZCNCn1aqi4k=
+
+Name: assets/skillT/LS2-2-3.png
+SHA1-Digest: s+J2XLlC4RacpVMYvRonfrhhS6s=
+
+Name: assets/skillF/FS2-3-4.png
+SHA1-Digest: r1NWpkCItL7Qq0dxd+f07kik3sA=
+
+Name: assets/skillW/WS4-4-3.png
+SHA1-Digest: x8mGeqFZx/G6Y6RAgAAZW3u6xrY=
+
+Name: assets/skillW/WS2-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillT/LS4-4-3.png
+SHA1-Digest: 5uk3rblqOfpkpc/R5pcsrlQnaNo=
+
+Name: assets/shapeT/l1-1-8.png
+SHA1-Digest: SUGDiqTLS+3X6Kbmd6JmQpQ7bbs=
+
+Name: assets/shapeT/l1-3-5.png
+SHA1-Digest: BpZyrlMZ9qj5s6HefGkTdmuca1I=
+
+Name: assets/shapeT/l2-1-4.png
+SHA1-Digest: oVK55/IeXGWHJ2SEgSeYJaXFB5U=
+
+Name: assets/skillW/WS6-3-3.png
+SHA1-Digest: jZHYjEJNgIVXYZNd+XTpQrh8iCU=
+
+Name: assets/shapeW/w1-3-1.png
+SHA1-Digest: MlwMUMayGRNqhj06veAJNOB9MGw=
+
+Name: assets/skillF/FS7-4-5.png
+SHA1-Digest: f/jkmgwS3aB+1c3WACR4bLYrpUI=
+
+Name: assets/1pixel.png
+SHA1-Digest: RHokg0e/LgA9890XUEAwaFde4Bk=
+
+Name: assets/GameDb
+SHA1-Digest: s1b+U2eeaIiKoRPddcCAFMYmWf0=
+
+Name: assets/shapeW/w1-2-2.png
+SHA1-Digest: rycysSmHQOca1RqVmROXzMotuS4=
+
+Name: resources.arsc
+SHA1-Digest: NnDuQHFuoB9DysUlRndlKIaMsFg=
+
+Name: assets/skillT/LS5-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillT/LS5-4-2.png
+SHA1-Digest: pbqta6jQZZ4JDJAPROJfX5hQi60=
+
+Name: assets/talk/jung.png
+SHA1-Digest: +MDqTmVx9q7r4JY35bZRml7hkm8=
+
+Name: assets/skillF/FS6-2-1.png
+SHA1-Digest: 57Hxu+Dz5lEPigw1puw4ZIRsFGI=
+
+Name: assets/skillT/LS7-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillW/WS8-2-4.png
+SHA1-Digest: 6ktoo9sE0UxCERhTN34O0AZL85g=
+
+Name: assets/skillF/FS5-2-1.png
+SHA1-Digest: 2Ix6be31gkM0t/9oZ6spCjfCw5s=
+
+Name: assets/skillT/LS7-2-5.png
+SHA1-Digest: Wsz1hfXIu2+XC2dw/PVgfW/9qgE=
+
+Name: assets/map/map_3_13.plist
+SHA1-Digest: AkO3GyrIncgOacujcQhkbZAlWU4=
+
+Name: assets/shapeW/w3-3-9.png
+SHA1-Digest: s8dNUa6Ea+93xCqZA/Zwo+au9OI=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: gfHaH8EPI7tPXVeskcJGZH2tiRQ=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GWc6ybKC9nsIf6Z+0RBEJ2TFdQ0=
+
+Name: assets/shapeF/f2-3-4.png
+SHA1-Digest: e/GRP1sdRISMg9EKInj0rC4OgDQ=
+
+Name: assets/skillW/WS9-3-5.png
+SHA1-Digest: 536kONIc9/UofbtG/jFqvJtDuyw=
+
+Name: assets/shapeW/w3-1-2.png
+SHA1-Digest: VB2UyZugHZ/MdsberpMn0JH4DL8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: CbQKQR4v+KUpSOw8jtj/8rngelU=
+
+Name: assets/skillT/LS6-2-5.png
+SHA1-Digest: qYQgvwRdmRxIkWd/18oRY5VGhJY=
+
+Name: assets/mapImages/left.png
+SHA1-Digest: pC+ZH6e82De0yCvp8HV45z4aEeE=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: OJXPXV0IBjRZCIij8GQ2hGfxnyc=
+
+Name: assets/skillT/LS4-4-1.png
+SHA1-Digest: fBCf7ywyuHyuDaXyTeZrmJhuWro=
+
+Name: assets/skillT/LS6-3-2.png
+SHA1-Digest: KTC+a0jRgQrr6SPEhy6+4BW88hA=
+
+Name: assets/shapeF/f2-3-7.png
+SHA1-Digest: 3Z0vW8m2gMn115xvEmTBhPdtftw=
+
+Name: assets/shapeF/f2-2-4.png
+SHA1-Digest: P9aogeOuInCQT/Rdc74Us+oWyKM=
+
+Name: assets/shapeF/f2-1-10.png
+SHA1-Digest: 0drc86p6iGEjwVVSW9M1/mFQasE=
+
+Name: assets/skillW/WS6-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/tutorial3.png
+SHA1-Digest: b7yjGqaNbkcRyqthMkiFl//72uw=
+
+Name: assets/skillT/LS5-3-1.png
+SHA1-Digest: pJDia4yA+ePAb3i093QF1T27xR8=
+
+Name: assets/shapeF/f1-1-5.png
+SHA1-Digest: xKHwXHQFGzBPTK7cKKAXAK3n0as=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: TOXKWaLgRXMv5YaI2cph4uS86+I=
+
+Name: assets/map/map_8_26.plist
+SHA1-Digest: 5mw3xpI5OCSagcAf38eOD+p/mig=
+
+Name: assets/talk/whiteZizomzang.png
+SHA1-Digest: iClje4SP2LU1JkWeblwhC3+YsdQ=
+
+Name: assets/map/map_8_30.plist
+SHA1-Digest: GiIj4c5dgZfHG7C+4638LSWsqv0=
+
+Name: assets/skillT/LS1-1-4.png
+SHA1-Digest: 2+HzE6fDR0dKI6ybFQCUMR2p1YE=
+
+Name: assets/warterMap.png
+SHA1-Digest: gwsgYZoKoxytpYl4g545bGVYIec=
+
+Name: assets/map/map_8_31.plist
+SHA1-Digest: /awalAAoq1AL7eK1VL5171weKg0=
+
+Name: assets/talk/blackOld.png
+SHA1-Digest: C8JR873t4kCt53ZZWqWnObZEIdk=
+
+Name: assets/shapeF/f2-1-6.png
+SHA1-Digest: p9v3rL0E/sNStkiUedrW3MJNq2c=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: OIRGcM9wwTMJqudjfOzKjfWhqx0=
+
+Name: assets/skillW/WS2-4-2.png
+SHA1-Digest: o2AUmtTTyhoTF8lnKG0QZCmvEhI=
+
+Name: assets/skillT/LS5-2-2.png
+SHA1-Digest: hy1v5ttbjI0P5fI5vKfd0A8uqwM=
+
+Name: js/mraid.js
+SHA1-Digest: y3eH38xC07zjySWzUe0wTRKhg5I=
+
+Name: assets/skillT/LS9-3-2.png
+SHA1-Digest: Qby714c0J4N2Jmi5AHSEEfjn10A=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: m3YAtUmXDcAGXG5Zyr9q08Mbs2Q=
+
+Name: assets/skillW/WS6-4-3.png
+SHA1-Digest: nFBRv4DGbZOzBBHJ95nZ5YNCkNQ=
+
+Name: assets/hospital.png
+SHA1-Digest: RltqjufnROcSS+xStqszuAj56jQ=
+
+Name: assets/shapeW/w3-3-6.png
+SHA1-Digest: /jQaNjShwlb2giKKzdhano73dqE=
+
+Name: assets/shapeT/l2-3-1.png
+SHA1-Digest: jgpO/KAY892WNrjCepg7lzU11Ec=
+
+Name: assets/shapeW/w3-3-1.png
+SHA1-Digest: lMyb+l9byQQ1l++lL1hnh3Razug=
+
+Name: assets/skillT/LS2-3-1.png
+SHA1-Digest: 0f5msLAL78/OmJeCea2H7/YfrPI=
+
+Name: assets/shapeF/f3-2-3.png
+SHA1-Digest: /AOo9zmH+KH/QX+sM21g0tkl4dI=
+
+Name: assets/map/map_8_25.plist
+SHA1-Digest: ufAA0d2d72P7+g5dVlGUt8Or8dc=
+
+Name: assets/mapImages/images.jpeg
+SHA1-Digest: 07VVN+PL/SBq87aog2iWyoANCtE=
+
+Name: assets/mapImages/star_4.png
+SHA1-Digest: lExmhdQs3x5DaToKex7yCQkl6XU=
+
+Name: assets/skillF/FS2-2-5.png
+SHA1-Digest: eTRngRM/mLXVUX+J1pK2jW9VBVo=
+
+Name: assets/shapeT/l3-1-4.png
+SHA1-Digest: KV8AybYYBjFWq/ni2RXAehqsBz0=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: TwWXY0poQcBhLXrZXIM9dyV+eP4=
+
+Name: assets/skillF/FS1-3-2.png
+SHA1-Digest: e5n964SPZscbjXdyt5PcpMLFDdE=
+
+Name: assets/map/map_6_13.plist
+SHA1-Digest: +pxX7436kECcJ7T3kiQ0jP+XaNM=
+
+Name: assets/shapeF/f2-3-1.png
+SHA1-Digest: UhIrK5GhH6OBnyGoVi5SJOhQXc8=
+
+Name: assets/map/map_8_15.plist
+SHA1-Digest: 0RFlxdDd6MeuDyxkT6Fpp2IiR5I=
+
+Name: assets/skillW/WS2-1-1.png
+SHA1-Digest: rKAMZ1Sag9SQRJnBC+i8C+j1e6E=
+
+Name: assets/skillF/FS10-3-2.png
+SHA1-Digest: r8Y8oBYToW6Cw/+Em4YnDRqFnVA=
+
+Name: assets/skillW/WS7-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/skillW/WS5-3-2.png
+SHA1-Digest: QskWMC0VD9TeEYVK7IBBBMKqQqM=
+
+Name: assets/map/map_8_4.plist
+SHA1-Digest: MP+NT5jLQTk2MXI6pd+cezblCvs=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_icon_disabled_focus_dar
+ k.9.png
+SHA1-Digest: UnGnluRjvPtWCPTuaQl6cAdhCys=
+
+Name: res/drawable-xxhdpi-v4/common_signin_btn_text_disabled_light.9.p
+ ng
+SHA1-Digest: M/AuBUDrasZr5kX0EObwl5+LiN8=
+
+Name: assets/shapeT/l.png
+SHA1-Digest: EgPdH/9RjOBK/zRZoL85aWsMQ2Y=
+
+Name: assets/skillF/FS9-1-4.png
+SHA1-Digest: eQ0UvuBIFk6pOaeFh64jMvgbtBI=
+
+Name: assets/skillW/WS6-2-5.png
+SHA1-Digest: ENPFB5RUm4Q540JPf+TFtorkTuI=
+
+Name: assets/skillW/WS3-2-1.png
+SHA1-Digest: PcmZkZLEA268wG5O13AM71KYKhs=
+
+Name: assets/map/map_2_7.plist
+SHA1-Digest: DQg+NiHMPKBNYgEIPrPt/KxWc4I=
+
+Name: assets/skillW/WS2-4-3.png
+SHA1-Digest: 3nFAINWM0olcYurG2oRYWESE1U8=
+
+Name: assets/skillT/LS7-3-2.png
+SHA1-Digest: 1ZR9C6xZ+mpQpa1Fi9SLZiB8L1U=
+
+Name: assets/shapeF/f1-3-10.png
+SHA1-Digest: ELynm8LMJQ8RUBiRuHMPkpSuxQ4=
+
+Name: assets/skillF/FS2-2-1.png
+SHA1-Digest: jllVXV/UQMmDlxz/Zp2hd5N8jZg=
+
+Name: assets/shapeT/l2-2-3.png
+SHA1-Digest: viXwy759ppktxsR9zTIf8fHZU+M=
+
+Name: assets/skillT/LS4-2-2.png
+SHA1-Digest: Lp5mWEHpsmqZxOKp0JSTspNnfeg=
+
+Name: assets/talk/character2.png
+SHA1-Digest: oDprn36WwnqApz/YELZDjY+1DxQ=
+
+Name: assets/skillW/WS9-4-1.png
+SHA1-Digest: bWgG5VseL1JHagzEZErBoZd4jFE=
+
+Name: assets/skillF/FS5-4-3.png
+SHA1-Digest: l80bDF5U7l9ixS1I3O4BgkHNpIo=
+
+Name: assets/skillT/LS9-4-5.png
+SHA1-Digest: aGTRlViR8GPRoXf2FiQSHpghGrM=
+
+Name: assets/shapeW/w2-3-1.png
+SHA1-Digest: c5oi9Hd0JyIZSVQcKKephS8R0SQ=
+
+Name: assets/shapeW/w2-3-7.png
+SHA1-Digest: QANpFfGZer9QPZzga84fxNn7o7I=
+
+Name: assets/skillF/FS8-4-4.png
+SHA1-Digest: yec4eNikOmQxgUFWWzPiIhIvXwk=
+
+Name: assets/shapeT/l3-1-10.png
+SHA1-Digest: O5biRmu4APJq/GbNII99wxPvxIc=
+
+Name: assets/skillF/FS8-3-4.png
+SHA1-Digest: mYgHBan4YwweA5u4wuXEI4LRHcE=
+
+Name: assets/skillF/FS4-2-5.png
+SHA1-Digest: Gy3kQ5oPJrBPovb7qC3106kyY14=
+
+Name: assets/mapImages/village.jpg
+SHA1-Digest: BsOt1Tg0kmfPtxDHeOJ1eXdPJWY=
+
+Name: assets/shapeF/f2-2-1.png
+SHA1-Digest: cTeZGUjF1ryLFt/kyEmXweKlIPc=
+
+Name: res/drawable-xhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: psVwTFCoE8L/YbYPXiTtAelEWs8=
+
+Name: assets/shapeT/l2-1-3.png
+SHA1-Digest: o0OfF6V10hIOcusLeW+pcaipAh0=
+
+Name: assets/skillF/FS3-2-2.png
+SHA1-Digest: VAjoDSjz1uKC0tZpLGoWYvxMWWA=
+
+Name: assets/shapeF/f2-1-2.png
+SHA1-Digest: zhDVN19iFhPKCaYjo/LvB26V+dE=
+
+Name: assets/mapImages/bird_2_1.png
+SHA1-Digest: vfzrkS0ElkEkuMnkS5B5m5C4XyQ=
+
+Name: assets/skillT/LS6-3-4.png
+SHA1-Digest: YBzf/90a3RqIjBDjkgCDvKzmJWA=
+
+Name: assets/map/map_6_3.plist
+SHA1-Digest: RlZEC8p/91U/7k69QX7mNaGyAtY=
+
+Name: assets/map/map_7_10.plist
+SHA1-Digest: 1+5m+n9rFBi0dQ+Qeekbjx8OXpA=
+
+Name: assets/tutorial.png
+SHA1-Digest: RFbNPUnWwezdhjH0h2fOcsyPl9k=
+
+Name: assets/skillT/LS2-4-3.png
+SHA1-Digest: ZpPJadmxQFmGzoDm21EJ2UXWFDk=
+
+Name: assets/skillW/WS10-3-2.png
+SHA1-Digest: KLB9Kmr/7uTJ95IxsnAvKLSMiEM=
+
+Name: assets/map/map_2_10.plist
+SHA1-Digest: HX4ki9MAV1kgboMHL9ir7QOhEHw=
+
+Name: assets/talk/garder5.png
+SHA1-Digest: DWI/MV8cT/76Mkp+6fc4Texhykw=
+
+Name: assets/skillT/LS1-4-3.png
+SHA1-Digest: 4rhijVinv2i9Z/BuS0j2VPBvMX8=
+
+Name: res/drawable-mdpi-v4/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: 3Cm8nhJcFA+BRyvYi9o9mdskUFM=
+
+Name: res/drawable-hdpi-v4/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: HJdSnxPzW/dtUr+R9bfh15Nk+oo=
+
+Name: assets/talk/mawoong.png
+SHA1-Digest: nzzoybeGI1vgPFY3vK5M4gPAANc=
+
+Name: assets/shapeF/f2-1-3.png
+SHA1-Digest: PzC5f88GiPlRMcbmaDduOKDjdx0=
+
+Name: assets/skillF/FS6-4-2.png
+SHA1-Digest: uQ5h50i6vFsExCdJWkYtJcC6EkQ=
+
+Name: assets/shapeF/f2-2-8.png
+SHA1-Digest: Nlre3NNiRvB6Q/wze2/82np5uTw=
+
+Name: assets/skillF/FS6-1-1.png
+SHA1-Digest: PFnx2ejWe2W2lauWBp18rih2pSE=
+
+Name: assets/skillT/LS3-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS9-2-3.png
+SHA1-Digest: BEK2QroK3vvkifUqyDpTfOCM5Go=
+
+Name: assets/shapeF/f1-3-7.png
+SHA1-Digest: TFTHlTQmOMmDGQLvITBytRUWqpU=
+
+Name: assets/skillF/FS2-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/skillT/LS6-1-2.png
+SHA1-Digest: U3jhirIU2uIHkoh1X64B1vPDMkA=
+
+Name: assets/skillW/WS8-2-2.png
+SHA1-Digest: xZe0TaVKuq/IhA2lx8FXrz9sAM0=
+
+Name: assets/skillW/WS2-3-5.png
+SHA1-Digest: hDSsPCnkCtG07fMKaeAK2AxEq7E=
+
+Name: assets/skillF/FS6-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/shapeW/w2-3-10.png
+SHA1-Digest: JO9QW7eAu/O6Np5pbV3CfYIBS2I=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: K7L/kGGT84Kvqt8Fuizc/MOES7w=
+
+Name: assets/map/map_5_2.plist
+SHA1-Digest: oTuvEQwMVPc2KfRrbj1PmoPsqjg=
+
+Name: assets/skillF/FS3-2-4.png
+SHA1-Digest: DUMLLnWrwe6hqiASAv5ISTv8Y/g=
+
+Name: assets/skillW/WS1-1-5.png
+SHA1-Digest: zO88krpLnOjA4OXjNo1eKyr7Z/M=
+
+Name: assets/shapeW/w3-1-6.png
+SHA1-Digest: 8W0njkHs91S/k6rqcnuG/mMELnk=
+
+Name: assets/skillW/WS4-1-3.png
+SHA1-Digest: oXQiVA8R6PklsfVrZnxRH7nBbTQ=
+
+Name: assets/map/map_5_16.plist
+SHA1-Digest: UzxgI8VvqiZg4rqYroLfFHd9BwA=
+

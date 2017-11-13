@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:36
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.tapjoy.TJAdUnitActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.tapjoy.TJContentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.tapjoy.mraid.view.ActionHandler { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.tapjoy.mraid.view.Browser { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class org.cocos2dx.cpp.AppActivity { <init>(...); }
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Player::load():Player.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_mapInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Item::setItemSprite():Item.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "type">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BattleLayer::catchMonster():BattleLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "item-&gt;getItemLevel()">
+            </PersistentString>
+            <PersistentString
+               value = "_enemyMonSter-&gt;getClassAll()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Item::setValue():Item.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "setItemSprite()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemBagLayer::clickItem(cocos2d::Ref*):ItemBagLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemData-&gt;_itemType">
+            </PersistentString>
+            <PersistentString
+               value = "item-&gt;_itemType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TalkLayer::checkTalkSpriteData(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):TalkLayer.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MapArea::retunVillage():MapArea.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Player::getInstance()-&gt;_mapInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TalkLayer::setTalkContainer():TalkLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_characterTag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
