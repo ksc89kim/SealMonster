@@ -1,4 +1,2 @@
 # SealMonster
-
-SealMonster Game
 =========
