@@ -5,7 +5,6 @@
 ![Alt text](/readme_resource/screenshot3.png)
 ![Alt text](/readme_resource/screenshot4.png)
 ![Alt text](/readme_resource/screenshot5.png)
-<hr/>
 
 SealMonster 설명
 -------------
@@ -15,16 +14,14 @@ SealMonster 설명
 4. 씰몬스터는 대략 3000여종이 있음.
 5. 퀘스트가 있음. 
 6. 속성이 있음.
-<hr/>
 
 SealMonster 구성
 -------------
 ![Alt text](/readme_resource/zohap.png)
 ![Alt text](/readme_resource/zohap2.png)
-<hr/>
+
 1. 이름에 해당하는 등급의 기준으로 몬스터를 생성.
 2. 해당 등급에 따라 주어지는 능력치가 다름.
-<hr/>
 
 Battle
 -------------
@@ -32,7 +29,7 @@ Battle
 ![Alt text](/readme_resource/battle2.png)
 ![Alt text](/readme_resource/battle3.png)
 ![Alt text](/readme_resource/battle4.png)
-<hr/>
+
 1. 배틀 씬은 공격, 교체, 가방, 나가기로 이루어져 있음.
 2. 공격은 스택 배틀 게임이며, 스킬을 쌓는 만큼 데미지를 적에게 줄 수 있음.
 3. 교체는 씰몬스터를 교체할수 있으며, 교체시 적에게 공격을 받음.
