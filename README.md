@@ -1,7 +1,6 @@
-# SealMonster
+# SealMonster Game
 
-SealMonster Game
-=============
+## 스크린샷 
 
 ![Alt text](/screenshot1.png)
 ![Alt text](/screenshot2.png)
@@ -18,6 +17,10 @@ SealMonster 설명
 5. 퀘스트가 있음. 
 6. 속성이 있음.
 
-Monster 구성
+SealMonster 구성
 -------------
 ![Alt text](/zohap.png)
+![Alt text](/zohap2.png)
+
+1. 이름에 해당하는 등급의 기준으로 몬스터를 생성.
+2. 해당 등급에 따라 주어지는 능력치가 다름.
