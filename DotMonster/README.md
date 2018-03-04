@@ -1,18 +1,5 @@
 # Source 설명
 
-ShapeClass 상속 여부
--------------
-![Alt text](/readme_resource/source1.png)
-
-ShapeContianer Class
--------------
-![Alt text](/readme_resource/source2.png)
-
-QuestClass 설명
--------------
-![Alt text](/readme_resource/source3.png)
-![Alt text](/readme_resource/source4.png)
-
 파일 구조
 -------------
 ![Alt text](/readme_resource/classes.png)
@@ -30,3 +17,18 @@ QuestClass 설명
 ![Alt text](/readme_resource/talk.png)
 ![Alt text](/readme_resource/tutorial.png)
 ![Alt text](/readme_resource/village.png)
+
+ShapeClass 상속 여부
+-------------
+![Alt text](/readme_resource/source1.png)
+
+ShapeContianer Class
+-------------
+![Alt text](/readme_resource/source2.png)
+
+QuestClass 설명
+-------------
+![Alt text](/readme_resource/source3.png)
+![Alt text](/readme_resource/source4.png)
+
+
